@@ -40,6 +40,7 @@ def fetch_details(id_list):
         return None
 
 # Main function to scrape PubMed for a disease
+# Main function to scrape PubMed for a disease
 def scrape_pubmed(disease, start_year="2019", end_year="2024"):
     # Search for articles on a rare disease
     results = search_pubmed(disease, start_year, end_year)
@@ -64,13 +65,22 @@ def scrape_pubmed(disease, start_year="2019", end_year="2024"):
         article_data = medline_citation["Article"]
         title = article_data["ArticleTitle"]
         abstract = article_data.get("Abstract", {}).get("AbstractText", [""])[0]
-        authors = ", ".join([author["LastName"] for author in article_data["AuthorList"]])
+        
+        # Author extraction with error handling
+        authors = []
+        for author in article_data.get("AuthorList", []):
+            last_name = author.get("LastName", "")
+            first_name = author.get("ForeName", "")
+            if last_name or first_name:
+                authors.append(f"{first_name} {last_name}".strip())
+        authors_str = ", ".join(authors) if authors else "N/A"
+        
         pub_date = article_data["Journal"]["JournalIssue"]["PubDate"].get("Year", "N/A")
         
         data.append({
             "Title": title,
             "Abstract": abstract,
-            "Authors": authors,
+            "Authors": authors_str,
             "Publication Date": pub_date
         })
 
