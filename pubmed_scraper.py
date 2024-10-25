@@ -88,7 +88,7 @@ def scrape_pubmed(disease, start_year="2019", end_year="2024"):
     df = pd.DataFrame(data)
     return df
 
-# List of 30 most prevalent rare diseases (replace with actual diseases)
+# List of 30 most prevalent rare diseases
 disease_list = [
     "Cystic Fibrosis",
     "Huntington Disease",
