@@ -1,2 +1,9 @@
 venv/
 .DS_Store
+# Ignore temporary or log files
+*.log
+*.sqlite3
+
+
+# Ignore any generated CSV files if not essential
+*.csv
