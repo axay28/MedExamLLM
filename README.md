@@ -7,13 +7,13 @@
 
 ## Description
 
-MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, store semantic embeddings, and generate medical exam questions. This project is especially useful for medical professionals and educators seeking relevant content on rare diseases for training and assessments.
+MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, store semantic embeddings, and generate medical exam answers. This project is especially useful for medical professionals and educators seeking relevant content on rare diseases for training and assessments.
 
 ### Key Components:
 
 - **LLM-Based Insights**: Uses LLMs to process and extract insights from medical literature on rare diseases.
 - **ChromaDB for Embeddings**: Stores embeddings in ChromaDB, enabling efficient semantic search and relevant information retrieval.
-- **Exam Question Generation**: Automatically generates exam-style questions related to rare diseases, ideal for training and assessment purposes.
+- **Exam Answer Generation**: Automatically generates exam-style answers related to rare diseases, ideal for training and assessment purposes.
 
 ### Folder Structure
 
