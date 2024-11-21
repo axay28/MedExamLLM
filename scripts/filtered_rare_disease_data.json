@@ -1,0 +1,1841 @@
+[
+    {
+        "question": "A 26 year old man is critically ill, with multisystem organ failure, and he has not been able to give a clear history of respiratory distress. You suspect Acute Respiratory Distress Syndrome (ARDS). 1. The lung injury may be direct, as occurs in sepsis, or indirect, as occurs in Toxic inhalation 2. The aerial (a) PO2 (in mmHg)/FIO2 (inspiratory O2 fraction) > 200 mmHg is characteristic of ARDS 3. Ventilator-induced injury will be more with low tidal volume ventilation in ARDS 4. Moality was significantly lower in the high tidal volume ventilation, compared to the conventional tidal volume ventilated patients 5. High-dose glucocoicoids are useful in the care of ARDS patients",
+        "opa": "1,2,5-True & 3,4-False",
+        "opb": "All True",
+        "opc": "All False",
+        "opd": "3,4-True & 1,2,5-False",
+        "cop": 2,
+        "rare disease": [
+            "Acute Respiratory Distress Syndrome"
+        ],
+        "input": "Question: A 26 year old man is critically ill, with multisystem organ failure, and he has not been able to give a clear history of respiratory distress. You suspect Acute Respiratory Distress Syndrome (ARDS). 1. The lung injury may be direct, as occurs in sepsis, or indirect, as occurs in Toxic inhalation 2. The aerial (a) PO2 (in mmHg)/FIO2 (inspiratory O2 fraction) > 200 mmHg is characteristic of ARDS 3. Ventilator-induced injury will be more with low tidal volume ventilation in ARDS 4. Moality was significantly lower in the high tidal volume ventilation, compared to the conventional tidal volume ventilated patients 5. High-dose glucocoicoids are useful in the care of ARDS patients\nChoices:\nA. 1,2,5-True & 3,4-False\nB. All True\nC. All False\nD. 3,4-True & 1,2,5-False\nAnswer:"
+    },
+    {
+        "question": "Which of the following tests is abnormal in patients with ALS (Amyotrophic Lateral Sclerosis)?",
+        "opa": "V.E.P",
+        "opb": "MRI whole spine",
+        "opc": "CT whole Spine",
+        "opd": "Electromyography",
+        "cop": 3,
+        "rare disease": [
+            "Amyotrophic Lateral Sclerosis"
+        ],
+        "input": "Question: Which of the following tests is abnormal in patients with ALS (Amyotrophic Lateral Sclerosis)?\nChoices:\nA. V.E.P\nB. MRI whole spine\nC. CT whole Spine\nD. Electromyography\nAnswer:"
+    },
+    {
+        "question": "Which of the following is seen in Angelman Syndrome",
+        "opa": "Uniparental disomy of maternal Chromosome",
+        "opb": "Obesity",
+        "opc": "Defective genomic imprinting of maternal chromosome",
+        "opd": "All of the above",
+        "cop": 3,
+        "rare disease": [
+            "Angelman Syndrome"
+        ],
+        "input": "Question: Which of the following is seen in Angelman Syndrome\nChoices:\nA. Uniparental disomy of maternal Chromosome\nB. Obesity\nC. Defective genomic imprinting of maternal chromosome\nD. All of the above\nAnswer:"
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome?",
+        "opa": "Beta 2 microglobulin antibody",
+        "opb": "Anti-nuclear antibody",
+        "opc": "Anti-centromere antibody",
+        "opd": "Anti- beta 2 glycoprotein antibody",
+        "cop": 3,
+        "rare disease": [
+            "Antiphospholipid Syndrome"
+        ],
+        "input": "Question: Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome?\nChoices:\nA. Beta 2 microglobulin antibody\nB. Anti-nuclear antibody\nC. Anti-centromere antibody\nD. Anti- beta 2 glycoprotein antibody\nAnswer:"
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome? -",
+        "opa": "Anti- beta 2 glycoprotein antibody",
+        "opb": "Beta 2 microglobulin antibody",
+        "opc": "Anti-nuclear antibody",
+        "opd": "Anti-centromere antibody",
+        "cop": 0,
+        "rare disease": [
+            "Antiphospholipid Syndrome"
+        ],
+        "input": "Question: Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome? -\nChoices:\nA. Anti- beta 2 glycoprotein antibody\nB. Beta 2 microglobulin antibody\nC. Anti-nuclear antibody\nD. Anti-centromere antibody\nAnswer:"
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome ? -",
+        "opa": "Beta 2 microglobulin antibody",
+        "opb": "Anti-nuclear antibody",
+        "opc": "Anti-centromere antibody",
+        "opd": "Anti- beta 2 glycoprotein antibody",
+        "cop": 3,
+        "rare disease": [
+            "Antiphospholipid Syndrome"
+        ],
+        "input": "Question: Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome ? -\nChoices:\nA. Beta 2 microglobulin antibody\nB. Anti-nuclear antibody\nC. Anti-centromere antibody\nD. Anti- beta 2 glycoprotein antibody\nAnswer:"
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome ?",
+        "opa": "Beta 2 microglobulin antibody",
+        "opb": "Anti-nuclear antibody",
+        "opc": "Anti-centromere antibody",
+        "opd": "Anti- beta 2 glycoprotein antibody",
+        "cop": 3,
+        "rare disease": [
+            "Antiphospholipid Syndrome"
+        ],
+        "input": "Question: Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome ?\nChoices:\nA. Beta 2 microglobulin antibody\nB. Anti-nuclear antibody\nC. Anti-centromere antibody\nD. Anti- beta 2 glycoprotein antibody\nAnswer:"
+    },
+    {
+        "question": "The gene responsible for Ataxia Telangiectasia is located on:",
+        "opa": "Chromosome 1",
+        "opb": "Chromosome 5",
+        "opc": "Chromosome 11",
+        "opd": "Chromosome 12",
+        "cop": 2,
+        "rare disease": [
+            "Ataxia Telangiectasia"
+        ],
+        "input": "Question: The gene responsible for Ataxia Telangiectasia is located on:\nChoices:\nA. Chromosome 1\nB. Chromosome 5\nC. Chromosome 11\nD. Chromosome 12\nAnswer:"
+    },
+    {
+        "question": "All are false regarding Ataxia Telangiectasia EXCEPT:",
+        "opa": "Autosomal dominant",
+        "opb": "Prone for Development of Squamous Cell Carcinoma of Skin",
+        "opc": "Gene repair defect",
+        "opd": "Most common seen in adults",
+        "cop": 2,
+        "rare disease": [
+            "Ataxia Telangiectasia"
+        ],
+        "input": "Question: All are false regarding Ataxia Telangiectasia EXCEPT:\nChoices:\nA. Autosomal dominant\nB. Prone for Development of Squamous Cell Carcinoma of Skin\nC. Gene repair defect\nD. Most common seen in adults\nAnswer:"
+    },
+    {
+        "question": "True about Bloom Syndrome -",
+        "opa": "Decreased IgG",
+        "opb": "Decreased IgM",
+        "opc": "IgA absent",
+        "opd": "Increased IgE",
+        "cop": 1,
+        "rare disease": [
+            "Bloom Syndrome"
+        ],
+        "input": "Question: True about Bloom Syndrome -\nChoices:\nA. Decreased IgG\nB. Decreased IgM\nC. IgA absent\nD. Increased IgE\nAnswer:"
+    },
+    {
+        "question": "Brucellosis can be transmitted by all EXCEPT",
+        "opa": "Contect with infected placenta",
+        "opb": "Ingestion of raw vegetables from infected farms",
+        "opc": "Person to person transmission",
+        "opd": "Inhalation of infected dust or aerosol",
+        "cop": 2,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Brucellosis can be transmitted by all EXCEPT\nChoices:\nA. Contect with infected placenta\nB. Ingestion of raw vegetables from infected farms\nC. Person to person transmission\nD. Inhalation of infected dust or aerosol\nAnswer:"
+    },
+    {
+        "question": "Brucellosis can be transmitted by all of the following modes, except-",
+        "opa": "Contact with infected placenta",
+        "opb": "Ingestion of raw vegetables from infected forms",
+        "opc": "Person to person transmission",
+        "opd": "Inhalation of infected dust or aerosol",
+        "cop": 2,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Brucellosis can be transmitted by all of the following modes, except-\nChoices:\nA. Contact with infected placenta\nB. Ingestion of raw vegetables from infected forms\nC. Person to person transmission\nD. Inhalation of infected dust or aerosol\nAnswer:"
+    },
+    {
+        "question": "Direct zoonose is -a)  Rabiesb)  Brucellosisc)  Taeniasisd)  Hydatid disease",
+        "opa": "ac",
+        "opb": "a",
+        "opc": "ad",
+        "opd": "ab",
+        "cop": 3,
+        "rare disease": [
+            "Brucellosis",
+            "Rabies"
+        ],
+        "input": "Question: Direct zoonose is -a)  Rabiesb)  Brucellosisc)  Taeniasisd)  Hydatid disease\nChoices:\nA. ac\nB. a\nC. ad\nD. ab\nAnswer:"
+    },
+    {
+        "question": "Brucellosis can be transmitted by all of the following modes, except:",
+        "opa": "Contact with infected placenta",
+        "opb": "Ingestion of raw vegetables from infected farms",
+        "opc": "Person to person transmission",
+        "opd": "Inhalation of infected dust or aerosol",
+        "cop": 2,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Brucellosis can be transmitted by all of the following modes, except:\nChoices:\nA. Contact with infected placenta\nB. Ingestion of raw vegetables from infected farms\nC. Person to person transmission\nD. Inhalation of infected dust or aerosol\nAnswer:"
+    },
+    {
+        "question": "Regarding Brucellosis, all of these are true except-",
+        "opa": "Man to man transmission",
+        "opb": "A zoonosis",
+        "opc": "Blood cultures used in diagnosis",
+        "opd": "B melitensis is the most common cause",
+        "cop": 0,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Regarding Brucellosis, all of these are true except-\nChoices:\nA. Man to man transmission\nB. A zoonosis\nC. Blood cultures used in diagnosis\nD. B melitensis is the most common cause\nAnswer:"
+    },
+    {
+        "question": "Brucellosis can be transmitted by all of the following modes, except -",
+        "opa": "Contact with infected placenta",
+        "opb": "Ingestion of raw vegatable from infected farms",
+        "opc": "Person to person transmission",
+        "opd": "Inhalation of infected dust or aerosol",
+        "cop": 2,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Brucellosis can be transmitted by all of the following modes, except -\nChoices:\nA. Contact with infected placenta\nB. Ingestion of raw vegatable from infected farms\nC. Person to person transmission\nD. Inhalation of infected dust or aerosol\nAnswer:"
+    },
+    {
+        "question": "Regarding Brucellosis, all of these are true except?",
+        "opa": "Man to man transmission",
+        "opb": "A zoonosis",
+        "opc": "Blood cultures used in diagnosis",
+        "opd": "B melitensis is the most common cause",
+        "cop": 0,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Regarding Brucellosis, all of these are true except?\nChoices:\nA. Man to man transmission\nB. A zoonosis\nC. Blood cultures used in diagnosis\nD. B melitensis is the most common cause\nAnswer:"
+    },
+    {
+        "question": "A farmer presenting with fever off and on for the past 4 years was diagnosed to be suffering from chronic Brucellosis. All of the following serological tests would be helpful in the diagnosis at this state except:",
+        "opa": "Standard agglutination test",
+        "opb": "2-mercapto-ethanol test",
+        "opc": "Complement fixation test",
+        "opd": "Coomb's test",
+        "cop": 0,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: A farmer presenting with fever off and on for the past 4 years was diagnosed to be suffering from chronic Brucellosis. All of the following serological tests would be helpful in the diagnosis at this state except:\nChoices:\nA. Standard agglutination test\nB. 2-mercapto-ethanol test\nC. Complement fixation test\nD. Coomb's test\nAnswer:"
+    },
+    {
+        "question": "Absolute lymphocytosis is seen in -a)  SLEb)  T.B.c) CLLd)  Brucellosis",
+        "opa": "abc",
+        "opb": "bcd",
+        "opc": "ac",
+        "opd": "bd",
+        "cop": 1,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: Absolute lymphocytosis is seen in -a)  SLEb)  T.B.c) CLLd)  Brucellosis\nChoices:\nA. abc\nB. bcd\nC. ac\nD. bd\nAnswer:"
+    },
+    {
+        "question": "False about Brucellosis",
+        "opa": "Also known as undulant  fever",
+        "opb": "B. melitensis is most virulent",
+        "opc": "Incubation period is 1-3 weeks",
+        "opd": "Antibiotic of choice is Ampicillin",
+        "cop": 3,
+        "rare disease": [
+            "Brucellosis"
+        ],
+        "input": "Question: False about Brucellosis\nChoices:\nA. Also known as undulant  fever\nB. B. melitensis is most virulent\nC. Incubation period is 1-3 weeks\nD. Antibiotic of choice is Ampicillin\nAnswer:"
+    },
+    {
+        "question": "Brugada Syndrome is associated with:",
+        "opa": "Left Bundle Branch Block",
+        "opb": "Left Anterior Fascicular block",
+        "opc": "Left Posterior Fascicular block",
+        "opd": "Right Bundle Branch Block",
+        "cop": 3,
+        "rare disease": [
+            "Brugada Syndrome"
+        ],
+        "input": "Question: Brugada Syndrome is associated with:\nChoices:\nA. Left Bundle Branch Block\nB. Left Anterior Fascicular block\nC. Left Posterior Fascicular block\nD. Right Bundle Branch Block\nAnswer:"
+    },
+    {
+        "question": "Which of the following is the site of Venous Thrombosis in Budd Chiari Syndrome?",
+        "opa": "Infrahepatic inferior vena cava",
+        "opb": "Infrarenal inferior vena cava",
+        "opc": "Hepatic vein",
+        "opd": "Poal vein",
+        "cop": 2,
+        "rare disease": [
+            "Budd Chiari Syndrome"
+        ],
+        "input": "Question: Which of the following is the site of Venous Thrombosis in Budd Chiari Syndrome?\nChoices:\nA. Infrahepatic inferior vena cava\nB. Infrarenal inferior vena cava\nC. Hepatic vein\nD. Poal vein\nAnswer:"
+    },
+    {
+        "question": "All of the following are features of SVC Syndrome except-",
+        "opa": "Facial swelling",
+        "opb": "Dilatation and congestion of neck veins",
+        "opc": "Headache",
+        "opd": "Hoarseness of voice",
+        "cop": 3,
+        "rare disease": [
+            "C Syndrome"
+        ],
+        "input": "Question: All of the following are features of SVC Syndrome except-\nChoices:\nA. Facial swelling\nB. Dilatation and congestion of neck veins\nC. Headache\nD. Hoarseness of voice\nAnswer:"
+    },
+    {
+        "question": "All of the following are features of SVC Syndrome except -",
+        "opa": "Facial swelling",
+        "opb": "Dilatation and congestion of neck veins",
+        "opc": "Headache",
+        "opd": "Hoarseness of voice",
+        "cop": 3,
+        "rare disease": [
+            "C Syndrome"
+        ],
+        "input": "Question: All of the following are features of SVC Syndrome except -\nChoices:\nA. Facial swelling\nB. Dilatation and congestion of neck veins\nC. Headache\nD. Hoarseness of voice\nAnswer:"
+    },
+    {
+        "question": "Caudal Regression Syndrome is seen in babies of mothers suffering from which of the following condition?",
+        "opa": "PIH",
+        "opb": "Anaemia",
+        "opc": "Cardiac disease",
+        "opd": "Gestational diabetes",
+        "cop": 3,
+        "rare disease": [
+            "Caudal Regression Syndrome"
+        ],
+        "input": "Question: Caudal Regression Syndrome is seen in babies of mothers suffering from which of the following condition?\nChoices:\nA. PIH\nB. Anaemia\nC. Cardiac disease\nD. Gestational diabetes\nAnswer:"
+    },
+    {
+        "question": "CHARGE Syndrome includes?",
+        "opa": "Choanal atresia",
+        "opb": "Coloboma of eye",
+        "opc": "Ear anomalies",
+        "opd": "All of above",
+        "cop": 3,
+        "rare disease": [
+            "CHARGE Syndrome"
+        ],
+        "input": "Question: CHARGE Syndrome includes?\nChoices:\nA. Choanal atresia\nB. Coloboma of eye\nC. Ear anomalies\nD. All of above\nAnswer:"
+    },
+    {
+        "question": "Which of the following is more frequently seen in Churg Strauss Syndrome in comparison to Wegener's Granulomatosis",
+        "opa": "Renal involvement",
+        "opb": "Lower Respiratory Tract involvement",
+        "opc": "Eye involvement",
+        "opd": "Upper Respiratory Tract involvement",
+        "cop": 1,
+        "rare disease": [
+            "Churg Strauss Syndrome"
+        ],
+        "input": "Question: Which of the following is more frequently seen in Churg Strauss Syndrome in comparison to Wegener's Granulomatosis\nChoices:\nA. Renal involvement\nB. Lower Respiratory Tract involvement\nC. Eye involvement\nD. Upper Respiratory Tract involvement\nAnswer:"
+    },
+    {
+        "question": "All of the following statements about Churg Strauss Syndrome are true, except:",
+        "opa": "Marked Eosinophilia",
+        "opb": "Mononeuritis multiplex is common",
+        "opc": "Renal failure is common",
+        "opd": "Often associated with Allergic Rhinitis",
+        "cop": 2,
+        "rare disease": [
+            "Churg Strauss Syndrome"
+        ],
+        "input": "Question: All of the following statements about Churg Strauss Syndrome are true, except:\nChoices:\nA. Marked Eosinophilia\nB. Mononeuritis multiplex is common\nC. Renal failure is common\nD. Often associated with Allergic Rhinitis\nAnswer:"
+    },
+    {
+        "question": "False statement regarding Complex Regional Pain Syndrome (CRPS) is?",
+        "opa": "Type 1 CRPS occurs following a nerve injury",
+        "opb": "Type 1 CRPS is also called as Reflex Sympathetic Dystrophy",
+        "opc": "It occurs due to adrenergic sensitivity of afferent nociceptors",
+        "opd": "CRPS Type 1 resolves with symptomatic treatment",
+        "cop": 0,
+        "rare disease": [
+            "Complex Regional Pain Syndrome"
+        ],
+        "input": "Question: False statement regarding Complex Regional Pain Syndrome (CRPS) is?\nChoices:\nA. Type 1 CRPS occurs following a nerve injury\nB. Type 1 CRPS is also called as Reflex Sympathetic Dystrophy\nC. It occurs due to adrenergic sensitivity of afferent nociceptors\nD. CRPS Type 1 resolves with symptomatic treatment\nAnswer:"
+    },
+    {
+        "question": "The most common cause of pulmonary abscesses in Cystic Fibrosis is?",
+        "opa": "Pseudomonas aeruginosa",
+        "opb": "Staphylococcus aureus",
+        "opc": "Burkholderia cenocepacia",
+        "opd": "Nontuberculous mycobacteria",
+        "cop": 0,
+        "rare disease": [
+            "Cystic Fibrosis"
+        ],
+        "input": "Question: The most common cause of pulmonary abscesses in Cystic Fibrosis is?\nChoices:\nA. Pseudomonas aeruginosa\nB. Staphylococcus aureus\nC. Burkholderia cenocepacia\nD. Nontuberculous mycobacteria\nAnswer:"
+    },
+    {
+        "question": "Cysticercosis cellulosae causes infection with",
+        "opa": "Taenia saginata",
+        "opb": "Echinococcus granulosus",
+        "opc": "Taenia solium",
+        "opd": "Diphyllobothrium latum",
+        "cop": 2,
+        "rare disease": [
+            "Cysticercosis"
+        ],
+        "input": "Question: Cysticercosis cellulosae causes infection with\nChoices:\nA. Taenia saginata\nB. Echinococcus granulosus\nC. Taenia solium\nD. Diphyllobothrium latum\nAnswer:"
+    },
+    {
+        "question": "Cerebral Cysticercosis",
+        "opa": "Commonly manifests with localizing signs",
+        "opb": "May present with dementia",
+        "opc": "Rarely occurs in children",
+        "opd": "Usually presents with generalized seizures",
+        "cop": 0,
+        "rare disease": [
+            "Cysticercosis"
+        ],
+        "input": "Question: Cerebral Cysticercosis\nChoices:\nA. Commonly manifests with localizing signs\nB. May present with dementia\nC. Rarely occurs in children\nD. Usually presents with generalized seizures\nAnswer:"
+    },
+    {
+        "question": "Cysticercosis is caused by larva of:",
+        "opa": "Taenia solium",
+        "opb": "T. saginata",
+        "opc": "Echinococcus",
+        "opd": "Ascaris",
+        "cop": 0,
+        "rare disease": [
+            "Cysticercosis"
+        ],
+        "input": "Question: Cysticercosis is caused by larva of:\nChoices:\nA. Taenia solium\nB. T. saginata\nC. Echinococcus\nD. Ascaris\nAnswer:"
+    },
+    {
+        "question": "Cysticercosis present as : a)  Seizuresb)  Neuropathyc)  Encephalitisd)  Muscular hypertrophy",
+        "opa": "a",
+        "opb": "bc",
+        "opc": "ac",
+        "opd": "b",
+        "cop": 2,
+        "rare disease": [
+            "Cysticercosis"
+        ],
+        "input": "Question: Cysticercosis present as : a)  Seizuresb)  Neuropathyc)  Encephalitisd)  Muscular hypertrophy\nChoices:\nA. a\nB. bc\nC. ac\nD. b\nAnswer:"
+    },
+    {
+        "question": "Cysticercosis present as  a) Seizure  b) Neuropathy  c) Encephalitis  d) Muscular hypertrophy",
+        "opa": "abc",
+        "opb": "abd",
+        "opc": "bcd",
+        "opd": "bd",
+        "cop": 0,
+        "rare disease": [
+            "Cysticercosis"
+        ],
+        "input": "Question: Cysticercosis present as  a) Seizure  b) Neuropathy  c) Encephalitis  d) Muscular hypertrophy\nChoices:\nA. abc\nB. abd\nC. bcd\nD. bd\nAnswer:"
+    },
+    {
+        "question": "Cysticercosis is caused by:",
+        "opa": "T. Solium",
+        "opb": "T. Saginata",
+        "opc": "A. duodenale",
+        "opd": "E. granulosus",
+        "cop": 0,
+        "rare disease": [
+            "Cysticercosis"
+        ],
+        "input": "Question: Cysticercosis is caused by:\nChoices:\nA. T. Solium\nB. T. Saginata\nC. A. duodenale\nD. E. granulosus\nAnswer:"
+    },
+    {
+        "question": "Duane syndrome involves",
+        "opa": "Superior oblique",
+        "opb": "Inferior oblique",
+        "opc": "Lateral rectus",
+        "opd": "Superior rectus",
+        "cop": 2,
+        "rare disease": [
+            "Duane syndrome"
+        ],
+        "input": "Question: Duane syndrome involves\nChoices:\nA. Superior oblique\nB. Inferior oblique\nC. Lateral rectus\nD. Superior rectus\nAnswer:"
+    },
+    {
+        "question": "Duchenne Muscular Dystrophy is a disease of:",
+        "opa": "Neuromuscular junction",
+        "opb": "Sarcolemmal proteins",
+        "opc": "Muscle contractile proteins",
+        "opd": "Disuse atrophy due to muscle weakness",
+        "cop": 1,
+        "rare disease": [
+            "Duchenne Muscular Dystrophy"
+        ],
+        "input": "Question: Duchenne Muscular Dystrophy is a disease of:\nChoices:\nA. Neuromuscular junction\nB. Sarcolemmal proteins\nC. Muscle contractile proteins\nD. Disuse atrophy due to muscle weakness\nAnswer:"
+    },
+    {
+        "question": "Duchenne Muscular Dystrophy is a disease of-",
+        "opa": "Neuromuscularj unction",
+        "opb": "Sarcolemmal proteins",
+        "opc": "Muscle contractile proteins",
+        "opd": "Disuse atrophy due to muscle weakness",
+        "cop": 1,
+        "rare disease": [
+            "Duchenne Muscular Dystrophy"
+        ],
+        "input": "Question: Duchenne Muscular Dystrophy is a disease of-\nChoices:\nA. Neuromuscularj unction\nB. Sarcolemmal proteins\nC. Muscle contractile proteins\nD. Disuse atrophy due to muscle weakness\nAnswer:"
+    },
+    {
+        "question": "Duchenne Muscular Dystrophy is a disease of \u2013",
+        "opa": "Neuromuscular junction",
+        "opb": "Sarcolemmal proteins",
+        "opc": "Muscle contractile proteins",
+        "opd": "Disuse atrophy due to muscle weakness",
+        "cop": 1,
+        "rare disease": [
+            "Duchenne Muscular Dystrophy"
+        ],
+        "input": "Question: Duchenne Muscular Dystrophy is a disease of \u2013\nChoices:\nA. Neuromuscular junction\nB. Sarcolemmal proteins\nC. Muscle contractile proteins\nD. Disuse atrophy due to muscle weakness\nAnswer:"
+    },
+    {
+        "question": "Fetal Hydantoin Syndrome is caused by:",
+        "opa": "Phenytoin",
+        "opb": "Alcohol",
+        "opc": "Tetracycline",
+        "opd": "Sodium valproate",
+        "cop": 0,
+        "rare disease": [
+            "Fetal Hydantoin Syndrome"
+        ],
+        "input": "Question: Fetal Hydantoin Syndrome is caused by:\nChoices:\nA. Phenytoin\nB. Alcohol\nC. Tetracycline\nD. Sodium valproate\nAnswer:"
+    },
+    {
+        "question": "Fox Fordyce Disease effects:",
+        "opa": "Sebaceous glands",
+        "opb": "Eccrine Glands",
+        "opc": "Apocrine glands",
+        "opd": "Any gland",
+        "cop": 2,
+        "rare disease": [
+            "Fox Fordyce Disease"
+        ],
+        "input": "Question: Fox Fordyce Disease effects:\nChoices:\nA. Sebaceous glands\nB. Eccrine Glands\nC. Apocrine glands\nD. Any gland\nAnswer:"
+    },
+    {
+        "question": "TRUE about Gestational Trophoblastic Disease is?",
+        "opa": "Most common site of metastasis is vagina",
+        "opb": "Presence of Lung metastasis classifies as stage 4 GTN",
+        "opc": "Liver metastasis carries a poor prognosis similar to brain metastasis",
+        "opd": "GTN following a term pregnancy has a better prognosis than that with previous molar pregnancy",
+        "cop": 2,
+        "rare disease": [
+            "Gestational Trophoblastic Disease"
+        ],
+        "input": "Question: TRUE about Gestational Trophoblastic Disease is?\nChoices:\nA. Most common site of metastasis is vagina\nB. Presence of Lung metastasis classifies as stage 4 GTN\nC. Liver metastasis carries a poor prognosis similar to brain metastasis\nD. GTN following a term pregnancy has a better prognosis than that with previous molar pregnancy\nAnswer:"
+    },
+    {
+        "question": "The highest incidence of Gestational Trophoblastic Disease is in :",
+        "opa": "Australia",
+        "opb": "Asia",
+        "opc": "Noh America",
+        "opd": "Western Europe",
+        "cop": 1,
+        "rare disease": [
+            "Gestational Trophoblastic Disease"
+        ],
+        "input": "Question: The highest incidence of Gestational Trophoblastic Disease is in :\nChoices:\nA. Australia\nB. Asia\nC. Noh America\nD. Western Europe\nAnswer:"
+    },
+    {
+        "question": "Prognosis of Gestational Trophoblastic Disease depends on all, except :",
+        "opa": "Number of living children",
+        "opb": "Blood group",
+        "opc": "Parity",
+        "opd": "Previous HCG titre",
+        "cop": 0,
+        "rare disease": [
+            "Gestational Trophoblastic Disease"
+        ],
+        "input": "Question: Prognosis of Gestational Trophoblastic Disease depends on all, except :\nChoices:\nA. Number of living children\nB. Blood group\nC. Parity\nD. Previous HCG titre\nAnswer:"
+    },
+    {
+        "question": "Patients with 'Hemophilia A' have bleeding disorder because of -",
+        "opa": "Lack of platelet aggregation",
+        "opb": "Lack of reaction accelerator during activation of factor X in coagulation cascade",
+        "opc": "Neutralization of antithrombin III",
+        "opd": "Release of Thromboxane A2",
+        "cop": 1,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Patients with 'Hemophilia A' have bleeding disorder because of -\nChoices:\nA. Lack of platelet aggregation\nB. Lack of reaction accelerator during activation of factor X in coagulation cascade\nC. Neutralization of antithrombin III\nD. Release of Thromboxane A2\nAnswer:"
+    },
+    {
+        "question": "Hemophilia A due to deficiency of",
+        "opa": "Factor VIII",
+        "opb": "Factor IX",
+        "opc": "Factor X",
+        "opd": "Factr XI",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Hemophilia A due to deficiency of\nChoices:\nA. Factor VIII\nB. Factor IX\nC. Factor X\nD. Factr XI\nAnswer:"
+    },
+    {
+        "question": "Which of the following true regarding Hemophilia A",
+        "opa": "Serum levels of factor VIII are decreased",
+        "opb": "Deficiency of factor IX",
+        "opc": "PT increased",
+        "opd": "FIT decreased",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Which of the following true regarding Hemophilia A\nChoices:\nA. Serum levels of factor VIII are decreased\nB. Deficiency of factor IX\nC. PT increased\nD. FIT decreased\nAnswer:"
+    },
+    {
+        "question": "Hemophilia A has following except -",
+        "opa": "\u2193 VIII factor",
+        "opb": "\u2191PTT",
+        "opc": "\u2191PT",
+        "opd": "Normal BT",
+        "cop": 2,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Hemophilia A has following except -\nChoices:\nA. \u2193 VIII factor\nB. \u2191PTT\nC. \u2191PT\nD. Normal BT\nAnswer:"
+    },
+    {
+        "question": "Bleeding disorder with \u2191 a PTT is/are -a) Hemophilia Ab) Hemophilia Bc) Henoch-schonlein purpurad) Bernard-soulier syndromee) Von-Willebrand disease",
+        "opa": "abe",
+        "opb": "bcd",
+        "opc": "cde",
+        "opd": "acd",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia A",
+            "Hemophilia B"
+        ],
+        "input": "Question: Bleeding disorder with \u2191 a PTT is/are -a) Hemophilia Ab) Hemophilia Bc) Henoch-schonlein purpurad) Bernard-soulier syndromee) Von-Willebrand disease\nChoices:\nA. abe\nB. bcd\nC. cde\nD. acd\nAnswer:"
+    },
+    {
+        "question": "Hemophilia A results due to deficiency of which of the factors:",
+        "opa": "II",
+        "opb": "VII",
+        "opc": "VIII",
+        "opd": "XI",
+        "cop": 2,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Hemophilia A results due to deficiency of which of the factors:\nChoices:\nA. II\nB. VII\nC. VIII\nD. XI\nAnswer:"
+    },
+    {
+        "question": "Which of the following is a recently approved monoclonal antibody for treatment of Hemophilia A?",
+        "opa": "Emicizumab",
+        "opb": "Sarilumab",
+        "opc": "Abaloparatide",
+        "opd": "Durvalumab",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Which of the following is a recently approved monoclonal antibody for treatment of Hemophilia A?\nChoices:\nA. Emicizumab\nB. Sarilumab\nC. Abaloparatide\nD. Durvalumab\nAnswer:"
+    },
+    {
+        "question": "Type of DCIS Which of the following true regarding Hemophilia A?",
+        "opa": "Serum levels of factor VIII are decreased",
+        "opb": "Deficiency of factor IX",
+        "opc": "PT increased",
+        "opd": "PPT decreased",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Type of DCIS Which of the following true regarding Hemophilia A?\nChoices:\nA. Serum levels of factor VIII are decreased\nB. Deficiency of factor IX\nC. PT increased\nD. PPT decreased\nAnswer:"
+    },
+    {
+        "question": "Hemophilia A is caused due to deficiency of",
+        "opa": "Factor X",
+        "opb": "Factor XI",
+        "opc": "Factor IX",
+        "opd": "Factor VIII",
+        "cop": 3,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Hemophilia A is caused due to deficiency of\nChoices:\nA. Factor X\nB. Factor XI\nC. Factor IX\nD. Factor VIII\nAnswer:"
+    },
+    {
+        "question": "The most common manifestation of moderate /severe Hemophilia A is:",
+        "opa": "Recurrent Hemahrosis",
+        "opb": "Recurrent muscle bleeding",
+        "opc": "Recurrent bleeding from gums",
+        "opd": "Recurrent Hematuria",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: The most common manifestation of moderate /severe Hemophilia A is:\nChoices:\nA. Recurrent Hemahrosis\nB. Recurrent muscle bleeding\nC. Recurrent bleeding from gums\nD. Recurrent Hematuria\nAnswer:"
+    },
+    {
+        "question": "Hemophilia A has increased:",
+        "opa": "PT",
+        "opb": "PTT",
+        "opc": "PT & PTT",
+        "opd": "None",
+        "cop": 1,
+        "rare disease": [
+            "Hemophilia A"
+        ],
+        "input": "Question: Hemophilia A has increased:\nChoices:\nA. PT\nB. PTT\nC. PT & PTT\nD. None\nAnswer:"
+    },
+    {
+        "question": "Hemophilia B is deficiency of which factor:September 2007",
+        "opa": "IX",
+        "opb": "XII",
+        "opc": "VIII",
+        "opd": "X",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: Hemophilia B is deficiency of which factor:September 2007\nChoices:\nA. IX\nB. XII\nC. VIII\nD. X\nAnswer:"
+    },
+    {
+        "question": "Hemophilia B is due to deficiency of -",
+        "opa": "Factor VIII",
+        "opb": "Factor VII",
+        "opc": "Factor IX",
+        "opd": "factor X",
+        "cop": 2,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: Hemophilia B is due to deficiency of -\nChoices:\nA. Factor VIII\nB. Factor VII\nC. Factor IX\nD. factor X\nAnswer:"
+    },
+    {
+        "question": "Hemophilia B is due to deficiency of:",
+        "opa": "Factor VIII",
+        "opb": "Factor VII",
+        "opc": "Factor IX",
+        "opd": "Factor X",
+        "cop": 2,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: Hemophilia B is due to deficiency of:\nChoices:\nA. Factor VIII\nB. Factor VII\nC. Factor IX\nD. Factor X\nAnswer:"
+    },
+    {
+        "question": "In Hemophilia B what is most common cause of death?",
+        "opa": "Hemorrhage",
+        "opb": "HIV, HBV, HCV due to transfusions",
+        "opc": "Transfusion reactions",
+        "opd": "Deep vein thrombosis",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: In Hemophilia B what is most common cause of death?\nChoices:\nA. Hemorrhage\nB. HIV, HBV, HCV due to transfusions\nC. Transfusion reactions\nD. Deep vein thrombosis\nAnswer:"
+    },
+    {
+        "question": "Hemophilia B is due to deficiency of-",
+        "opa": "Factor VIII",
+        "opb": "Factor VII",
+        "opc": "Factor IX",
+        "opd": "factor X",
+        "cop": 2,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: Hemophilia B is due to deficiency of-\nChoices:\nA. Factor VIII\nB. Factor VII\nC. Factor IX\nD. factor X\nAnswer:"
+    },
+    {
+        "question": "Hemophilia B is due to:",
+        "opa": "Factor VII deficiency",
+        "opb": "Factor IX deficiency",
+        "opc": "Platelet deficiency",
+        "opd": "Vit C deficiency",
+        "cop": 1,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: Hemophilia B is due to:\nChoices:\nA. Factor VII deficiency\nB. Factor IX deficiency\nC. Platelet deficiency\nD. Vit C deficiency\nAnswer:"
+    },
+    {
+        "question": "Hemophilia B is deficiency of which factor: September 2007",
+        "opa": "IX",
+        "opb": "XII",
+        "opc": "VIII",
+        "opd": "X",
+        "cop": 0,
+        "rare disease": [
+            "Hemophilia B"
+        ],
+        "input": "Question: Hemophilia B is deficiency of which factor: September 2007\nChoices:\nA. IX\nB. XII\nC. VIII\nD. X\nAnswer:"
+    },
+    {
+        "question": "Most common mutation in Hereditary Spherocytosis is",
+        "opa": "Band 3",
+        "opb": "Ankyrin",
+        "opc": "Spectrin",
+        "opd": "Band 4.2",
+        "cop": 1,
+        "rare disease": [
+            "Hereditary Spherocytosis"
+        ],
+        "input": "Question: Most common mutation in Hereditary Spherocytosis is\nChoices:\nA. Band 3\nB. Ankyrin\nC. Spectrin\nD. Band 4.2\nAnswer:"
+    },
+    {
+        "question": "Which of the following is not seen in'Hereditary Spherocytosis:",
+        "opa": "Direct Coomb's Positive",
+        "opb": "Increased Osmotic Fragility",
+        "opc": "Splenomegaly",
+        "opd": "Gall Stones",
+        "cop": 0,
+        "rare disease": [
+            "Hereditary Spherocytosis"
+        ],
+        "input": "Question: Which of the following is not seen in'Hereditary Spherocytosis:\nChoices:\nA. Direct Coomb's Positive\nB. Increased Osmotic Fragility\nC. Splenomegaly\nD. Gall Stones\nAnswer:"
+    },
+    {
+        "question": "Which of the following is not seen in Hereditary Spherocytosis",
+        "opa": "Direct Coomb's Positive",
+        "opb": "Increased Osmotic Fragility",
+        "opc": "Splenomegaly",
+        "opd": "Gall stones",
+        "cop": 0,
+        "rare disease": [
+            "Hereditary Spherocytosis"
+        ],
+        "input": "Question: Which of the following is not seen in Hereditary Spherocytosis\nChoices:\nA. Direct Coomb's Positive\nB. Increased Osmotic Fragility\nC. Splenomegaly\nD. Gall stones\nAnswer:"
+    },
+    {
+        "question": "NOT a feature of Holt Oram Syndrome is",
+        "opa": "Absent Radius",
+        "opb": "Atrial septal defect",
+        "opc": "Thrombocytopenia",
+        "opd": "Autosomal dominant inheritance",
+        "cop": 2,
+        "rare disease": [
+            "Holt Oram Syndrome"
+        ],
+        "input": "Question: NOT a feature of Holt Oram Syndrome is\nChoices:\nA. Absent Radius\nB. Atrial septal defect\nC. Thrombocytopenia\nD. Autosomal dominant inheritance\nAnswer:"
+    },
+    {
+        "question": "Treatment of acute phase of Kawasaki Disease is -",
+        "opa": "Aspirin",
+        "opb": "IV steroids",
+        "opc": "IV immunoglobins",
+        "opd": "Cyclophosphamide",
+        "cop": 2,
+        "rare disease": [
+            "Kawasaki Disease"
+        ],
+        "input": "Question: Treatment of acute phase of Kawasaki Disease is -\nChoices:\nA. Aspirin\nB. IV steroids\nC. IV immunoglobins\nD. Cyclophosphamide\nAnswer:"
+    },
+    {
+        "question": "Treatment of choice for Kawasaki Disease",
+        "opa": "Immunoglobulins",
+        "opb": "Coicosteroids",
+        "opc": "Azathioprine",
+        "opd": "Methotrexate",
+        "cop": 0,
+        "rare disease": [
+            "Kawasaki Disease"
+        ],
+        "input": "Question: Treatment of choice for Kawasaki Disease\nChoices:\nA. Immunoglobulins\nB. Coicosteroids\nC. Azathioprine\nD. Methotrexate\nAnswer:"
+    },
+    {
+        "question": "Treatment of choice for Kawasaki Disease is:",
+        "opa": "IV Immunoglobulins",
+        "opb": "Steroids",
+        "opc": "Dapsone",
+        "opd": "Methotrexate",
+        "cop": 0,
+        "rare disease": [
+            "Kawasaki Disease"
+        ],
+        "input": "Question: Treatment of choice for Kawasaki Disease is:\nChoices:\nA. IV Immunoglobulins\nB. Steroids\nC. Dapsone\nD. Methotrexate\nAnswer:"
+    },
+    {
+        "question": "In Langerhans Cell Histiocytosis, the characteristic abnormality seen is:",
+        "opa": "Foamy macrophages",
+        "opb": "Giant cell",
+        "opc": "Plasma cell",
+        "opd": "Birbeck's granules",
+        "cop": 3,
+        "rare disease": [
+            "Langerhans Cell Histiocytosis"
+        ],
+        "input": "Question: In Langerhans Cell Histiocytosis, the characteristic abnormality seen is:\nChoices:\nA. Foamy macrophages\nB. Giant cell\nC. Plasma cell\nD. Birbeck's granules\nAnswer:"
+    },
+    {
+        "question": "Lennox-Gastaut Syndrome is characterized by:",
+        "opa": "Single seizure type",
+        "opb": "Good prognosis and adequate controlled epilepsy",
+        "opc": "Affects mainly adolescents",
+        "opd": "Multiple seizure types that are difficult to control",
+        "cop": 3,
+        "rare disease": [
+            "Lennox-Gastaut Syndrome"
+        ],
+        "input": "Question: Lennox-Gastaut Syndrome is characterized by:\nChoices:\nA. Single seizure type\nB. Good prognosis and adequate controlled epilepsy\nC. Affects mainly adolescents\nD. Multiple seizure types that are difficult to control\nAnswer:"
+    },
+    {
+        "question": "True about Lesch Nyhan Syndrome:",
+        "opa": "Patient have normal intellectual capacity",
+        "opb": "Pyrimidine overproduction is the cause",
+        "opc": "Uric acid stones are frequently formed",
+        "opd": "X- Linked dominant",
+        "cop": 2,
+        "rare disease": [
+            "Lesch Nyhan Syndrome"
+        ],
+        "input": "Question: True about Lesch Nyhan Syndrome:\nChoices:\nA. Patient have normal intellectual capacity\nB. Pyrimidine overproduction is the cause\nC. Uric acid stones are frequently formed\nD. X- Linked dominant\nAnswer:"
+    },
+    {
+        "question": "Demyelination is seen in -a) Multiple sclerosisb) AIDSc) Human leukoencephalopathy d) Leukodystrophy",
+        "opa": "ab",
+        "opb": "bc",
+        "opc": "acd",
+        "opd": "abc",
+        "cop": 3,
+        "rare disease": [
+            "Leukodystrophy"
+        ],
+        "input": "Question: Demyelination is seen in -a) Multiple sclerosisb) AIDSc) Human leukoencephalopathy d) Leukodystrophy\nChoices:\nA. ab\nB. bc\nC. acd\nD. abc\nAnswer:"
+    },
+    {
+        "question": "Leukodystrophy with Bilateral occipital lobe involvement is seen in",
+        "opa": "MELAS",
+        "opb": "Canavan disease",
+        "opc": "Alexander disease",
+        "opd": "Adrenoleucodystrophy",
+        "cop": 3,
+        "rare disease": [
+            "Leukodystrophy"
+        ],
+        "input": "Question: Leukodystrophy with Bilateral occipital lobe involvement is seen in\nChoices:\nA. MELAS\nB. Canavan disease\nC. Alexander disease\nD. Adrenoleucodystrophy\nAnswer:"
+    },
+    {
+        "question": "Loeys-Dietz Syndrome is characterized by all of the following Except",
+        "opa": "Aerial aneurysms",
+        "opb": "Hypeelorism",
+        "opc": "Bifid uvula",
+        "opd": "Mutations in the gene encoding filamin A (FLNA)",
+        "cop": 3,
+        "rare disease": [
+            "Loeys-Dietz Syndrome"
+        ],
+        "input": "Question: Loeys-Dietz Syndrome is characterized by all of the following Except\nChoices:\nA. Aerial aneurysms\nB. Hypeelorism\nC. Bifid uvula\nD. Mutations in the gene encoding filamin A (FLNA)\nAnswer:"
+    },
+    {
+        "question": "In Lowe syndrome, all of the following are seen except: September 2007",
+        "opa": "Undescended testes in males",
+        "opb": "Cataract",
+        "opc": "Hypeonia",
+        "opd": "Low IQ",
+        "cop": 2,
+        "rare disease": [
+            "Lowe syndrome"
+        ],
+        "input": "Question: In Lowe syndrome, all of the following are seen except: September 2007\nChoices:\nA. Undescended testes in males\nB. Cataract\nC. Hypeonia\nD. Low IQ\nAnswer:"
+    },
+    {
+        "question": "Mallory Weiss Syndrome is caused due to tear in -",
+        "opa": "Lower esophageal end.",
+        "opb": "Upper esophageal end.",
+        "opc": "Crico pharyngeal junction.",
+        "opd": "Gastro esophageal junction.",
+        "cop": 3,
+        "rare disease": [
+            "Mallory Weiss Syndrome"
+        ],
+        "input": "Question: Mallory Weiss Syndrome is caused due to tear in -\nChoices:\nA. Lower esophageal end.\nB. Upper esophageal end.\nC. Crico pharyngeal junction.\nD. Gastro esophageal junction.\nAnswer:"
+    },
+    {
+        "question": "Which of the following statements about Mallory Weiss Syndrome are true:",
+        "opa": "Presents with hemoptysis",
+        "opb": "Shows transmural rupture",
+        "opc": "Chest pain and shoness of breath",
+        "opd": "Shows mucosal tear",
+        "cop": 3,
+        "rare disease": [
+            "Mallory Weiss Syndrome"
+        ],
+        "input": "Question: Which of the following statements about Mallory Weiss Syndrome are true:\nChoices:\nA. Presents with hemoptysis\nB. Shows transmural rupture\nC. Chest pain and shoness of breath\nD. Shows mucosal tear\nAnswer:"
+    },
+    {
+        "question": "CLL is differentiated from Mantle Cell Lymphoma by",
+        "opa": "CD 5",
+        "opb": "CD 17",
+        "opc": "CD22",
+        "opd": "CD 23",
+        "cop": 3,
+        "rare disease": [
+            "Mantle Cell Lymphoma"
+        ],
+        "input": "Question: CLL is differentiated from Mantle Cell Lymphoma by\nChoices:\nA. CD 5\nB. CD 17\nC. CD22\nD. CD 23\nAnswer:"
+    },
+    {
+        "question": "All the following are seen in McCune Albright Syndrome Except",
+        "opa": "Polyostotic fibrous dysplasia",
+        "opb": "Cafe-au-lait spots",
+        "opc": "GnRH-independent sexual precocity",
+        "opd": "GnRH-dependent sexual precocity",
+        "cop": 3,
+        "rare disease": [
+            "McCune Albright Syndrome"
+        ],
+        "input": "Question: All the following are seen in McCune Albright Syndrome Except\nChoices:\nA. Polyostotic fibrous dysplasia\nB. Cafe-au-lait spots\nC. GnRH-independent sexual precocity\nD. GnRH-dependent sexual precocity\nAnswer:"
+    },
+    {
+        "question": "Uncooked Fish eating causing Megaloblastic Anemia is due to ?",
+        "opa": "H. nana",
+        "opb": "Taenia saginata",
+        "opc": "Echinococcus",
+        "opd": "Diphyllobothrium Latum",
+        "cop": 3,
+        "rare disease": [
+            "Megaloblastic Anemia"
+        ],
+        "input": "Question: Uncooked Fish eating causing Megaloblastic Anemia is due to ?\nChoices:\nA. H. nana\nB. Taenia saginata\nC. Echinococcus\nD. Diphyllobothrium Latum\nAnswer:"
+    },
+    {
+        "question": "Which of the major histocompatibility antigens is associated with an increased risk of Multiple Sclerosis?",
+        "opa": "A3",
+        "opb": "B27",
+        "opc": "DR2",
+        "opd": "DR3",
+        "cop": 2,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Which of the major histocompatibility antigens is associated with an increased risk of Multiple Sclerosis?\nChoices:\nA. A3\nB. B27\nC. DR2\nD. DR3\nAnswer:"
+    },
+    {
+        "question": "Most Common presentation of Multiple Sclerosis is",
+        "opa": "Optic neurosis",
+        "opb": "Intemuclear ophthalmoplegia",
+        "opc": "Transverse myelitis",
+        "opd": "Clinically isolated syndrome",
+        "cop": 3,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Most Common presentation of Multiple Sclerosis is\nChoices:\nA. Optic neurosis\nB. Intemuclear ophthalmoplegia\nC. Transverse myelitis\nD. Clinically isolated syndrome\nAnswer:"
+    },
+    {
+        "question": "Multiple Sclerosis is",
+        "opa": "Toxic disorder",
+        "opb": "Infectious disorder",
+        "opc": "Degenerative disorder",
+        "opd": "Demylinating disorder",
+        "cop": 3,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Multiple Sclerosis is\nChoices:\nA. Toxic disorder\nB. Infectious disorder\nC. Degenerative disorder\nD. Demylinating disorder\nAnswer:"
+    },
+    {
+        "question": "Demyelination is the major feature of Multiple Sclerosis. Which of the following cells forms myelin in the central nervous system?",
+        "opa": "Astrocytes",
+        "opb": "Ependymal cells",
+        "opc": "Microglia",
+        "opd": "OIigodendrocytes",
+        "cop": 3,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Demyelination is the major feature of Multiple Sclerosis. Which of the following cells forms myelin in the central nervous system?\nChoices:\nA. Astrocytes\nB. Ependymal cells\nC. Microglia\nD. OIigodendrocytes\nAnswer:"
+    },
+    {
+        "question": "Which of the following is used in the treatment of Multiple Sclerosis:",
+        "opa": "Interferon Alpha",
+        "opb": "Interferon Beta",
+        "opc": "Infliximab",
+        "opd": "Interferon gamma",
+        "cop": 1,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Which of the following is used in the treatment of Multiple Sclerosis:\nChoices:\nA. Interferon Alpha\nB. Interferon Beta\nC. Infliximab\nD. Interferon gamma\nAnswer:"
+    },
+    {
+        "question": "Most common manifestation of Multiple Sclerosis is",
+        "opa": "Weakness",
+        "opb": "Ataxia",
+        "opc": "Optic neuritis",
+        "opd": "Inter neuclear ophthalmoplegia",
+        "cop": 2,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Most common manifestation of Multiple Sclerosis is\nChoices:\nA. Weakness\nB. Ataxia\nC. Optic neuritis\nD. Inter neuclear ophthalmoplegia\nAnswer:"
+    },
+    {
+        "question": "Which of the following drugs is not recommended for the treatment of Multiple Sclerosis:",
+        "opa": "Interferon p-1 a",
+        "opb": "Interferon p-lb",
+        "opc": "Glatiramer Acetate",
+        "opd": "Mycophenolate",
+        "cop": 1,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Which of the following drugs is not recommended for the treatment of Multiple Sclerosis:\nChoices:\nA. Interferon p-1 a\nB. Interferon p-lb\nC. Glatiramer Acetate\nD. Mycophenolate\nAnswer:"
+    },
+    {
+        "question": "The most common clinical manifestation of Multiple Sclerosis is",
+        "opa": "Intemuclear Ophthalmoplegia",
+        "opb": "Ataxia",
+        "opc": "Optic Neuritis",
+        "opd": "Diplopia",
+        "cop": 2,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: The most common clinical manifestation of Multiple Sclerosis is\nChoices:\nA. Intemuclear Ophthalmoplegia\nB. Ataxia\nC. Optic Neuritis\nD. Diplopia\nAnswer:"
+    },
+    {
+        "question": "Multiple Sclerosis is associated with all of the following, Except",
+        "opa": "Hydrocephalus",
+        "opb": "Optic Neuritis",
+        "opc": "Spasticity",
+        "opd": "Spinal cord involvement",
+        "cop": 0,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Multiple Sclerosis is associated with all of the following, Except\nChoices:\nA. Hydrocephalus\nB. Optic Neuritis\nC. Spasticity\nD. Spinal cord involvement\nAnswer:"
+    },
+    {
+        "question": "Which of the following is false regarding Multiple Sclerosis (MS)?",
+        "opa": "More common in women and age of onset is between 20-40 years of age",
+        "opb": "Risk factors include vitamin D deficiency and cigarette smoking",
+        "opc": "Pathological hallmark is axonal degeneration",
+        "opd": "HLA DRB1 in MHC class II is associated with 10% of disease risk",
+        "cop": 2,
+        "rare disease": [
+            "Multiple Sclerosis"
+        ],
+        "input": "Question: Which of the following is false regarding Multiple Sclerosis (MS)?\nChoices:\nA. More common in women and age of onset is between 20-40 years of age\nB. Risk factors include vitamin D deficiency and cigarette smoking\nC. Pathological hallmark is axonal degeneration\nD. HLA DRB1 in MHC class II is associated with 10% of disease risk\nAnswer:"
+    },
+    {
+        "question": "All of the following are WHO classified Myelodysplastic Syndromes except:",
+        "opa": "CML",
+        "opb": "Refractory anemia with excess blasts",
+        "opc": "Refractory anemia with ringed sideroblasts",
+        "opd": "Refractory anemia",
+        "cop": 0,
+        "rare disease": [
+            "Myelodysplastic Syndromes"
+        ],
+        "input": "Question: All of the following are WHO classified Myelodysplastic Syndromes except:\nChoices:\nA. CML\nB. Refractory anemia with excess blasts\nC. Refractory anemia with ringed sideroblasts\nD. Refractory anemia\nAnswer:"
+    },
+    {
+        "question": "Chromosome involved in Myotonic Dystrophy is",
+        "opa": "Chromosome 19",
+        "opb": "Chromosome 20",
+        "opc": "Chromosome 21",
+        "opd": "Chromosome 22",
+        "cop": 0,
+        "rare disease": [
+            "Myotonic Dystrophy"
+        ],
+        "input": "Question: Chromosome involved in Myotonic Dystrophy is\nChoices:\nA. Chromosome 19\nB. Chromosome 20\nC. Chromosome 21\nD. Chromosome 22\nAnswer:"
+    },
+    {
+        "question": "All of the following statements about inheritance of Myotonic Dystrophy are true, except:",
+        "opa": "Type 1 is caused by mutation in DMPK gene",
+        "opb": "Type 2 is caused by mutation in CNBP gene",
+        "opc": "Type 2 gene is located on Chromosome 19",
+        "opd": "Type 1 is caused by a CTG trinucleotide repeat expansion",
+        "cop": 2,
+        "rare disease": [
+            "Myotonic Dystrophy"
+        ],
+        "input": "Question: All of the following statements about inheritance of Myotonic Dystrophy are true, except:\nChoices:\nA. Type 1 is caused by mutation in DMPK gene\nB. Type 2 is caused by mutation in CNBP gene\nC. Type 2 gene is located on Chromosome 19\nD. Type 1 is caused by a CTG trinucleotide repeat expansion\nAnswer:"
+    },
+    {
+        "question": "Neurofibromatosis 1 criteria include all except:",
+        "opa": "Brain tumor",
+        "opb": "Acoustic neuromas",
+        "opc": "Dysplasia of the sphenoidal and tibial bone",
+        "opd": "Cafe-au-lait spots",
+        "cop": 1,
+        "rare disease": [
+            "Neurofibromatosis 1"
+        ],
+        "input": "Question: Neurofibromatosis 1 criteria include all except:\nChoices:\nA. Brain tumor\nB. Acoustic neuromas\nC. Dysplasia of the sphenoidal and tibial bone\nD. Cafe-au-lait spots\nAnswer:"
+    },
+    {
+        "question": "Neurofibromatosis 1 criteria except",
+        "opa": "Brain tumor",
+        "opb": "Acoustic neuromas",
+        "opc": "Pseudoarthrosis",
+        "opd": "Caf\u00e9-au-lait spots",
+        "cop": 1,
+        "rare disease": [
+            "Neurofibromatosis 1"
+        ],
+        "input": "Question: Neurofibromatosis 1 criteria except\nChoices:\nA. Brain tumor\nB. Acoustic neuromas\nC. Pseudoarthrosis\nD. Caf\u00e9-au-lait spots\nAnswer:"
+    },
+    {
+        "question": "The specific laboratory finding often reflect the clinical manifestations of Neuroleptic Malignant Syndrome (NMS) is",
+        "opa": "Elevated Creatine kinase",
+        "opb": "Hypocalcemia",
+        "opc": "Increased Alkaline phosphatase",
+        "opd": "Leukocytosis",
+        "cop": 0,
+        "rare disease": [
+            "Neuroleptic Malignant Syndrome"
+        ],
+        "input": "Question: The specific laboratory finding often reflect the clinical manifestations of Neuroleptic Malignant Syndrome (NMS) is\nChoices:\nA. Elevated Creatine kinase\nB. Hypocalcemia\nC. Increased Alkaline phosphatase\nD. Leukocytosis\nAnswer:"
+    },
+    {
+        "question": "Which if the following statements are FALSE regarding Neuroleptic Malignant Syndrome (NMT)?",
+        "opa": "Combining Antipsychotics and Antidepressants increased the risk of NMS",
+        "opb": "Increase in Creatinine Phosphokinase (CPK) always indicates NMS",
+        "opc": "First use of Injection anti-psychotic in a risk factor",
+        "opd": "Catatonic symptoms and autonomic dysfunction is a feature of NMS",
+        "cop": 1,
+        "rare disease": [
+            "Neuroleptic Malignant Syndrome"
+        ],
+        "input": "Question: Which if the following statements are FALSE regarding Neuroleptic Malignant Syndrome (NMT)?\nChoices:\nA. Combining Antipsychotics and Antidepressants increased the risk of NMS\nB. Increase in Creatinine Phosphokinase (CPK) always indicates NMS\nC. First use of Injection anti-psychotic in a risk factor\nD. Catatonic symptoms and autonomic dysfunction is a feature of NMS\nAnswer:"
+    },
+    {
+        "question": "Symptoms of Neuroleptic Malignant Syndrome (NMS) are all of the following except?",
+        "opa": "Confusion",
+        "opb": "Hypothermia",
+        "opc": "Diaphoresis",
+        "opd": "Hypertension",
+        "cop": 1,
+        "rare disease": [
+            "Neuroleptic Malignant Syndrome"
+        ],
+        "input": "Question: Symptoms of Neuroleptic Malignant Syndrome (NMS) are all of the following except?\nChoices:\nA. Confusion\nB. Hypothermia\nC. Diaphoresis\nD. Hypertension\nAnswer:"
+    },
+    {
+        "question": "Ogilvie syndrome is?",
+        "opa": "Small bowel obstruction",
+        "opb": "Large bowel obstruction",
+        "opc": "Colonic pseudo-obstruction",
+        "opd": "Bowel ischemia",
+        "cop": 2,
+        "rare disease": [
+            "Ogilvie syndrome"
+        ],
+        "input": "Question: Ogilvie syndrome is?\nChoices:\nA. Small bowel obstruction\nB. Large bowel obstruction\nC. Colonic pseudo-obstruction\nD. Bowel ischemia\nAnswer:"
+    },
+    {
+        "question": "True about Ogilvie syndrome are all except",
+        "opa": "It is caused by mechanical obstruction of the colon",
+        "opb": "It involves entire \\/ pa of the large colon",
+        "opc": "It occurs after previous surgery",
+        "opd": "It occurs commonly after narcotic use",
+        "cop": 0,
+        "rare disease": [
+            "Ogilvie syndrome"
+        ],
+        "input": "Question: True about Ogilvie syndrome are all except\nChoices:\nA. It is caused by mechanical obstruction of the colon\nB. It involves entire \\/ pa of the large colon\nC. It occurs after previous surgery\nD. It occurs commonly after narcotic use\nAnswer:"
+    },
+    {
+        "question": "True about Pendred Syndrome",
+        "opa": "Blindness",
+        "opb": "Conductive deafness",
+        "opc": "Sensorineural deafness",
+        "opd": "All of the above",
+        "cop": 2,
+        "rare disease": [
+            "Pendred Syndrome"
+        ],
+        "input": "Question: True about Pendred Syndrome\nChoices:\nA. Blindness\nB. Conductive deafness\nC. Sensorineural deafness\nD. All of the above\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria caused by deficiency of",
+        "opa": "Tyrosine transaminase",
+        "opb": "Tyrosine hydroxylase",
+        "opc": "Phenylalanine hydroxylase",
+        "opd": "Phenylketonuria hydroxylase",
+        "cop": 2,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria caused by deficiency of\nChoices:\nA. Tyrosine transaminase\nB. Tyrosine hydroxylase\nC. Phenylalanine hydroxylase\nD. Phenylketonuria hydroxylase\nAnswer:"
+    },
+    {
+        "question": "In Phenylketonuria the main aim of first line therapy is:",
+        "opa": "Replacement of the defective enzyme",
+        "opb": "Replacement of the deficient product",
+        "opc": "Limiting the substrate for deficient enzyme",
+        "opd": "Giving the missing amino acid by diet",
+        "cop": 2,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: In Phenylketonuria the main aim of first line therapy is:\nChoices:\nA. Replacement of the defective enzyme\nB. Replacement of the deficient product\nC. Limiting the substrate for deficient enzyme\nD. Giving the missing amino acid by diet\nAnswer:"
+    },
+    {
+        "question": "In Phenylketonuria, the first line therapy is:",
+        "opa": "Replacement of the defective enzyme",
+        "opb": "Replacement of the deficient product",
+        "opc": "Limiting the substrate for deficient enzyme",
+        "opd": "Giving the missing amino acid by diet",
+        "cop": 2,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: In Phenylketonuria, the first line therapy is:\nChoices:\nA. Replacement of the defective enzyme\nB. Replacement of the deficient product\nC. Limiting the substrate for deficient enzyme\nD. Giving the missing amino acid by diet\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is due to deficiency of:",
+        "opa": "Phenylalanine",
+        "opb": "Phenylalanine hydroxylase (PAH)",
+        "opc": "Galactokinase",
+        "opd": "Tyrosinase",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is due to deficiency of:\nChoices:\nA. Phenylalanine\nB. Phenylalanine hydroxylase (PAH)\nC. Galactokinase\nD. Tyrosinase\nAnswer:"
+    },
+    {
+        "question": "Child born to mothers with Phenylketonuria will have all except",
+        "opa": "Mental retardation",
+        "opb": "Macrocephaly",
+        "opc": "Growth retardation",
+        "opd": "Congenital heart disease",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Child born to mothers with Phenylketonuria will have all except\nChoices:\nA. Mental retardation\nB. Macrocephaly\nC. Growth retardation\nD. Congenital heart disease\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is due to the deficiency of:",
+        "opa": "Phenylalanine",
+        "opb": "Phenylalanine hydroxylase (PAH)",
+        "opc": "Phenylene",
+        "opd": "All of these",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is due to the deficiency of:\nChoices:\nA. Phenylalanine\nB. Phenylalanine hydroxylase (PAH)\nC. Phenylene\nD. All of these\nAnswer:"
+    },
+    {
+        "question": "In Phenylketonuria the main aim of first-line therapy is",
+        "opa": "Replacement of the defective enzymes",
+        "opb": "Replacement of the deficient product",
+        "opc": "Limiting the substrate for deficient enzyme",
+        "opd": "Giving the missing amino acid by diet",
+        "cop": 2,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: In Phenylketonuria the main aim of first-line therapy is\nChoices:\nA. Replacement of the defective enzymes\nB. Replacement of the deficient product\nC. Limiting the substrate for deficient enzyme\nD. Giving the missing amino acid by diet\nAnswer:"
+    },
+    {
+        "question": "Which one of the following is not a feature of Phenylketonuria ?",
+        "opa": "Severe mental retardation",
+        "opb": "Reduced tendon reflexes",
+        "opc": "Enamel hypoplasia",
+        "opd": "Vomiting in early infancy",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Which one of the following is not a feature of Phenylketonuria ?\nChoices:\nA. Severe mental retardation\nB. Reduced tendon reflexes\nC. Enamel hypoplasia\nD. Vomiting in early infancy\nAnswer:"
+    },
+    {
+        "question": "True about Rx of Phenylketonuria",
+        "opa": "Limiting the substrate for deficient enzyme",
+        "opb": "Giving the missing amino acids by diet",
+        "opc": "Gene therapy can be successfully used",
+        "opd": "Child should refrain from milk.",
+        "cop": 0,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: True about Rx of Phenylketonuria\nChoices:\nA. Limiting the substrate for deficient enzyme\nB. Giving the missing amino acids by diet\nC. Gene therapy can be successfully used\nD. Child should refrain from milk.\nAnswer:"
+    },
+    {
+        "question": "Which of the following is not a feature of Phenylketonuria?",
+        "opa": "Severe mental retardation",
+        "opb": "Reduced tendon reflexes",
+        "opc": "Hypopigmentation in skin",
+        "opd": "Hair loss",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Which of the following is not a feature of Phenylketonuria?\nChoices:\nA. Severe mental retardation\nB. Reduced tendon reflexes\nC. Hypopigmentation in skin\nD. Hair loss\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is -",
+        "opa": "AD",
+        "opb": "AR",
+        "opc": "X linked dominant",
+        "opd": "X linked recessive",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is -\nChoices:\nA. AD\nB. AR\nC. X linked dominant\nD. X linked recessive\nAnswer:"
+    },
+    {
+        "question": "Which of the following is a feature of Phenylketonuria?",
+        "opa": "Loss of deep tendon reflexes",
+        "opb": "Mental retardation",
+        "opc": "Macrocephaly",
+        "opd": "All",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Which of the following is a feature of Phenylketonuria?\nChoices:\nA. Loss of deep tendon reflexes\nB. Mental retardation\nC. Macrocephaly\nD. All\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is caused by deficiency of",
+        "opa": "Tyrosine transminase",
+        "opb": "Tyrosine hydroxylase",
+        "opc": "Phenylalanine transaminase",
+        "opd": "Phenylalanine hydroxylase",
+        "cop": 3,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is caused by deficiency of\nChoices:\nA. Tyrosine transminase\nB. Tyrosine hydroxylase\nC. Phenylalanine transaminase\nD. Phenylalanine hydroxylase\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria I is due to deficiency of -",
+        "opa": "Phenylalanine hydroxylase",
+        "opb": "Homogentisate oxidase",
+        "opc": "Tyrosinase",
+        "opd": "None",
+        "cop": 0,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria I is due to deficiency of -\nChoices:\nA. Phenylalanine hydroxylase\nB. Homogentisate oxidase\nC. Tyrosinase\nD. None\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is due to deficiency of -",
+        "opa": "Phenylalanine transaminase",
+        "opb": "Phenylalanine hydroxylase",
+        "opc": "Tyrosine transaminase",
+        "opd": "Tyrosine hydroxylase",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is due to deficiency of -\nChoices:\nA. Phenylalanine transaminase\nB. Phenylalanine hydroxylase\nC. Tyrosine transaminase\nD. Tyrosine hydroxylase\nAnswer:"
+    },
+    {
+        "question": "True statement regarding a 3-week old child with Phenylketonuria is all, except \u2013",
+        "opa": "Provocative protein meal tests helps in the diagnosis",
+        "opb": "Tyrosine becomes an Essential amino\u2013acid in diet",
+        "opc": "Serum Phenylalanine is increased and urinary Phenyl Pyruvate level is elevated",
+        "opd": "Phenylalanine should be completely stopped in diet",
+        "cop": 3,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: True statement regarding a 3-week old child with Phenylketonuria is all, except \u2013\nChoices:\nA. Provocative protein meal tests helps in the diagnosis\nB. Tyrosine becomes an Essential amino\u2013acid in diet\nC. Serum Phenylalanine is increased and urinary Phenyl Pyruvate level is elevated\nD. Phenylalanine should be completely stopped in diet\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is detected by which urine test:",
+        "opa": "Guthrie test",
+        "opb": "Sodium nitroprusside test",
+        "opc": "Blot test",
+        "opd": "FeCl3",
+        "cop": 0,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is detected by which urine test:\nChoices:\nA. Guthrie test\nB. Sodium nitroprusside test\nC. Blot test\nD. FeCl3\nAnswer:"
+    },
+    {
+        "question": "Boiled cabbage or rancid butter smelling urine is seen in Phenylketonuria",
+        "opa": "Tyrosinemia",
+        "opb": "Isovaleric Acidaemia",
+        "opc": "Multiple carboxylase deficiency",
+        "opd": "Phenylketonuria",
+        "cop": 0,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Boiled cabbage or rancid butter smelling urine is seen in Phenylketonuria\nChoices:\nA. Tyrosinemia\nB. Isovaleric Acidaemia\nC. Multiple carboxylase deficiency\nD. Phenylketonuria\nAnswer:"
+    },
+    {
+        "question": "Phenylketonuria is ?",
+        "opa": "AD",
+        "opb": "AR",
+        "opc": "X linked dominant",
+        "opd": "X linked recessive",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Phenylketonuria is ?\nChoices:\nA. AD\nB. AR\nC. X linked dominant\nD. X linked recessive\nAnswer:"
+    },
+    {
+        "question": "Which one of the following is not a feature of Phenylketonuria?",
+        "opa": "Severe mental retardation",
+        "opb": "Reduced tendon reflexes",
+        "opc": "Enamel hypoplasia",
+        "opd": "Vomiting in early infancy",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Which one of the following is not a feature of Phenylketonuria?\nChoices:\nA. Severe mental retardation\nB. Reduced tendon reflexes\nC. Enamel hypoplasia\nD. Vomiting in early infancy\nAnswer:"
+    },
+    {
+        "question": "Enzyme defect in Classic Phenylketonuria",
+        "opa": "Phenylalanine hydroxylase",
+        "opb": "Dihydrobiopterin reductase",
+        "opc": "Fumarylacetoacetate hydrolase",
+        "opd": "Homogentisate oxidase",
+        "cop": 0,
+        "rare disease": [
+            "Phenylketonuria"
+        ],
+        "input": "Question: Enzyme defect in Classic Phenylketonuria\nChoices:\nA. Phenylalanine hydroxylase\nB. Dihydrobiopterin reductase\nC. Fumarylacetoacetate hydrolase\nD. Homogentisate oxidase\nAnswer:"
+    },
+    {
+        "question": "Which of the following disorder of mother leads to microcephaly in baby \u2013a)  SLEb)  Hepatitis A c) Phenylketonuriad)  Rubella",
+        "opa": "ab",
+        "opb": "cd",
+        "opc": "bd",
+        "opd": "ac",
+        "cop": 1,
+        "rare disease": [
+            "Phenylketonuria",
+            "Rubella"
+        ],
+        "input": "Question: Which of the following disorder of mother leads to microcephaly in baby \u2013a)  SLEb)  Hepatitis A c) Phenylketonuriad)  Rubella\nChoices:\nA. ab\nB. cd\nC. bd\nD. ac\nAnswer:"
+    },
+    {
+        "question": "POEMS Syndrome includes all, EXCEPT:",
+        "opa": "Polyneuropathy",
+        "opb": "Organomegaly",
+        "opc": "Endocrinopathy",
+        "opd": "Multiple sclerosis",
+        "cop": 3,
+        "rare disease": [
+            "POEMS Syndrome"
+        ],
+        "input": "Question: POEMS Syndrome includes all, EXCEPT:\nChoices:\nA. Polyneuropathy\nB. Organomegaly\nC. Endocrinopathy\nD. Multiple sclerosis\nAnswer:"
+    },
+    {
+        "question": "Poland Syndrome is",
+        "opa": "Congenital absence of Pectoralis minor",
+        "opb": "Acquired Weakness and disuse atrophy of Pectoralis minor",
+        "opc": "Acquired Weakness and disuse atrophy of Pectoralis major",
+        "opd": "Congenital absence of Pectoralis major",
+        "cop": 3,
+        "rare disease": [
+            "Poland Syndrome"
+        ],
+        "input": "Question: Poland Syndrome is\nChoices:\nA. Congenital absence of Pectoralis minor\nB. Acquired Weakness and disuse atrophy of Pectoralis minor\nC. Acquired Weakness and disuse atrophy of Pectoralis major\nD. Congenital absence of Pectoralis major\nAnswer:"
+    },
+    {
+        "question": "What is the characterstic of Poland Syndrome ?",
+        "opa": "Amastia with the absence of the Pectoralis major",
+        "opb": "Athelia with the absence of the Pectoralis major",
+        "opc": "Amastia with the absence of the Pectoralis minor",
+        "opd": "Athelia with the absence of the Pectoralis minor",
+        "cop": 0,
+        "rare disease": [
+            "Poland Syndrome"
+        ],
+        "input": "Question: What is the characterstic of Poland Syndrome ?\nChoices:\nA. Amastia with the absence of the Pectoralis major\nB. Athelia with the absence of the Pectoralis major\nC. Amastia with the absence of the Pectoralis minor\nD. Athelia with the absence of the Pectoralis minor\nAnswer:"
+    },
+    {
+        "question": "Commonest metastasis in Renal Cell Carcinoma is to",
+        "opa": "Lung",
+        "opb": "Bone",
+        "opc": "Adrenal",
+        "opd": "Liver",
+        "cop": 0,
+        "rare disease": [
+            "Renal Cell Carcinoma"
+        ],
+        "input": "Question: Commonest metastasis in Renal Cell Carcinoma is to\nChoices:\nA. Lung\nB. Bone\nC. Adrenal\nD. Liver\nAnswer:"
+    },
+    {
+        "question": "Chromophilic Renal Cell Carcinoma is associated with",
+        "opa": "3p",
+        "opb": "Trisomy 7 and 17",
+        "opc": "6q",
+        "opd": "t(3, 11)",
+        "cop": 1,
+        "rare disease": [
+            "Renal Cell Carcinoma"
+        ],
+        "input": "Question: Chromophilic Renal Cell Carcinoma is associated with\nChoices:\nA. 3p\nB. Trisomy 7 and 17\nC. 6q\nD. t(3, 11)\nAnswer:"
+    },
+    {
+        "question": "Which of the following statement about Renal Cell Carcinoma (Hypemephroma) is false:",
+        "opa": "Originate in the coex",
+        "opb": "Histologically are usually Adenocarcinomas",
+        "opc": "May present with varicocele",
+        "opd": "Radiosensitive",
+        "cop": 3,
+        "rare disease": [
+            "Renal Cell Carcinoma"
+        ],
+        "input": "Question: Which of the following statement about Renal Cell Carcinoma (Hypemephroma) is false:\nChoices:\nA. Originate in the coex\nB. Histologically are usually Adenocarcinomas\nC. May present with varicocele\nD. Radiosensitive\nAnswer:"
+    },
+    {
+        "question": "Which of the following is true regarding Renal Cell Carcinoma?",
+        "opa": "More common in males",
+        "opb": "May cause varicocele",
+        "opc": "May invade the renal vein",
+        "opd": "All the above",
+        "cop": 3,
+        "rare disease": [
+            "Renal Cell Carcinoma"
+        ],
+        "input": "Question: Which of the following is true regarding Renal Cell Carcinoma?\nChoices:\nA. More common in males\nB. May cause varicocele\nC. May invade the renal vein\nD. All the above\nAnswer:"
+    },
+    {
+        "question": "Which of the following is not true regarding Renal Cell Carcinoma?",
+        "opa": "More common in males",
+        "opb": "Has a tendency to invade the renal vessels",
+        "opc": "Usually situated near the poles",
+        "opd": "Hematuria is not a feature",
+        "cop": 3,
+        "rare disease": [
+            "Renal Cell Carcinoma"
+        ],
+        "input": "Question: Which of the following is not true regarding Renal Cell Carcinoma?\nChoices:\nA. More common in males\nB. Has a tendency to invade the renal vessels\nC. Usually situated near the poles\nD. Hematuria is not a feature\nAnswer:"
+    },
+    {
+        "question": "What is not a part of triad of Renal Cell Carcinoma?",
+        "opa": "Loin Mass",
+        "opb": "Hematuria",
+        "opc": "Loin Pain",
+        "opd": "Oliguria",
+        "cop": 3,
+        "rare disease": [
+            "Renal Cell Carcinoma"
+        ],
+        "input": "Question: What is not a part of triad of Renal Cell Carcinoma?\nChoices:\nA. Loin Mass\nB. Hematuria\nC. Loin Pain\nD. Oliguria\nAnswer:"
+    },
+    {
+        "question": "Teduglutide is a recently introduced drug for Short Bowel Syndrome- What is it?",
+        "opa": "GLP- 2 analogue",
+        "opb": "GLP anta agonist",
+        "opc": "Somatostatin analogue",
+        "opd": "H1 blocker",
+        "cop": 0,
+        "rare disease": [
+            "Short Bowel Syndrome"
+        ],
+        "input": "Question: Teduglutide is a recently introduced drug for Short Bowel Syndrome- What is it?\nChoices:\nA. GLP- 2 analogue\nB. GLP anta agonist\nC. Somatostatin analogue\nD. H1 blocker\nAnswer:"
+    },
+    {
+        "question": "The type of mutation that leads to replacement of Valine for glutamate in Sickle Cell Disease is",
+        "opa": "Point mutation",
+        "opb": "Silent mutation",
+        "opc": "Nonsense mutation",
+        "opd": "None",
+        "cop": 0,
+        "rare disease": [
+            "Sickle Cell Disease"
+        ],
+        "input": "Question: The type of mutation that leads to replacement of Valine for glutamate in Sickle Cell Disease is\nChoices:\nA. Point mutation\nB. Silent mutation\nC. Nonsense mutation\nD. None\nAnswer:"
+    },
+    {
+        "question": "Drug of choice for EGFR T790M mutation of Non-Small Cell Lung Cancer is",
+        "opa": "Lapatinib",
+        "opb": "Crizotinib",
+        "opc": "Alemtuzumzb",
+        "opd": "Osimeinib",
+        "cop": 3,
+        "rare disease": [
+            "Small Cell Lung Cancer"
+        ],
+        "input": "Question: Drug of choice for EGFR T790M mutation of Non-Small Cell Lung Cancer is\nChoices:\nA. Lapatinib\nB. Crizotinib\nC. Alemtuzumzb\nD. Osimeinib\nAnswer:"
+    },
+    {
+        "question": "The following vaccine, if contaminated can cause Toxic Shock Syndrome (TSS) -",
+        "opa": "Measles vaccine",
+        "opb": "DPT",
+        "opc": "Hepatitis B",
+        "opd": "Typhoral",
+        "cop": 0,
+        "rare disease": [
+            "Toxic Shock Syndrome"
+        ],
+        "input": "Question: The following vaccine, if contaminated can cause Toxic Shock Syndrome (TSS) -\nChoices:\nA. Measles vaccine\nB. DPT\nC. Hepatitis B\nD. Typhoral\nAnswer:"
+    },
+    {
+        "question": "Toxic Shock Syndrome is most commonly caused by: March 2005",
+        "opa": "Sterptococcus pneumoniae",
+        "opb": "Staphylococcus aureus",
+        "opc": "Vibrio cholerae",
+        "opd": "Clostridium tetani",
+        "cop": 1,
+        "rare disease": [
+            "Toxic Shock Syndrome"
+        ],
+        "input": "Question: Toxic Shock Syndrome is most commonly caused by: March 2005\nChoices:\nA. Sterptococcus pneumoniae\nB. Staphylococcus aureus\nC. Vibrio cholerae\nD. Clostridium tetani\nAnswer:"
+    },
+    {
+        "question": "Which of the following vaccine is associated with Toxic Shock Syndrome?",
+        "opa": "Infected BCG vaccine",
+        "opb": "Infected DPT vaccine",
+        "opc": "Infected Polio vaccine",
+        "opd": "Infected Measles vaccine",
+        "cop": 3,
+        "rare disease": [
+            "Toxic Shock Syndrome"
+        ],
+        "input": "Question: Which of the following vaccine is associated with Toxic Shock Syndrome?\nChoices:\nA. Infected BCG vaccine\nB. Infected DPT vaccine\nC. Infected Polio vaccine\nD. Infected Measles vaccine\nAnswer:"
+    },
+    {
+        "question": "Streptococcal Toxic Shock Syndrome is due to",
+        "opa": "Erythrogenic toxin",
+        "opb": "Enterotoxin F",
+        "opc": "Enteoxin C",
+        "opd": "None",
+        "cop": 0,
+        "rare disease": [
+            "Toxic Shock Syndrome"
+        ],
+        "input": "Question: Streptococcal Toxic Shock Syndrome is due to\nChoices:\nA. Erythrogenic toxin\nB. Enterotoxin F\nC. Enteoxin C\nD. None\nAnswer:"
+    },
+    {
+        "question": "TSS (Toxic Shock Syndrome) is caused mainly by:",
+        "opa": "Streptococci",
+        "opb": "Staphylococci",
+        "opc": "Pneumococci",
+        "opd": "Pseudomonas",
+        "cop": 1,
+        "rare disease": [
+            "Toxic Shock Syndrome"
+        ],
+        "input": "Question: TSS (Toxic Shock Syndrome) is caused mainly by:\nChoices:\nA. Streptococci\nB. Staphylococci\nC. Pneumococci\nD. Pseudomonas\nAnswer:"
+    },
+    {
+        "question": "Treacher Collins Syndrome is",
+        "opa": "Maxiaofacial Dysostosis",
+        "opb": "MandibuLofacial Dysostosis",
+        "opc": "Maxillomandibutofacial Dysostosis",
+        "opd": "Condylar Dysostosis",
+        "cop": 1,
+        "rare disease": [
+            "Treacher Collins Syndrome"
+        ],
+        "input": "Question: Treacher Collins Syndrome is\nChoices:\nA. Maxiaofacial Dysostosis\nB. MandibuLofacial Dysostosis\nC. Maxillomandibutofacial Dysostosis\nD. Condylar Dysostosis\nAnswer:"
+    },
+    {
+        "question": "Trisomy 18 is known as -",
+        "opa": "Edward Syndrome",
+        "opb": "Patau sundrome",
+        "opc": "Cat eye syndrome",
+        "opd": "Down's syndrome",
+        "cop": 0,
+        "rare disease": [
+            "Trisomy 18"
+        ],
+        "input": "Question: Trisomy 18 is known as -\nChoices:\nA. Edward Syndrome\nB. Patau sundrome\nC. Cat eye syndrome\nD. Down's syndrome\nAnswer:"
+    },
+    {
+        "question": "The eponymus Trisomy 18 is",
+        "opa": "Cri du chat syndrome",
+        "opb": "Patau's syndrome",
+        "opc": "Down's syndrome",
+        "opd": "Edward's syndrome",
+        "cop": 3,
+        "rare disease": [
+            "Trisomy 18"
+        ],
+        "input": "Question: The eponymus Trisomy 18 is\nChoices:\nA. Cri du chat syndrome\nB. Patau's syndrome\nC. Down's syndrome\nD. Edward's syndrome\nAnswer:"
+    },
+    {
+        "question": "Triad of Tuberous Sclerosis includes all, except:",
+        "opa": "Epilepsy",
+        "opb": "Low intelligence",
+        "opc": "Hydrocephalus",
+        "opd": "Adenoma sebaceum",
+        "cop": 2,
+        "rare disease": [
+            "Tuberous Sclerosis"
+        ],
+        "input": "Question: Triad of Tuberous Sclerosis includes all, except:\nChoices:\nA. Epilepsy\nB. Low intelligence\nC. Hydrocephalus\nD. Adenoma sebaceum\nAnswer:"
+    },
+    {
+        "question": "All the following are characteristic of Turner Syndrome EXCEPT:",
+        "opa": "Webbing of Neck",
+        "opb": "Cubitus valgus",
+        "opc": "Umbilical Hernia",
+        "opd": "Coarctation of Aorta",
+        "cop": 2,
+        "rare disease": [
+            "Turner Syndrome"
+        ],
+        "input": "Question: All the following are characteristic of Turner Syndrome EXCEPT:\nChoices:\nA. Webbing of Neck\nB. Cubitus valgus\nC. Umbilical Hernia\nD. Coarctation of Aorta\nAnswer:"
+    },
+    {
+        "question": "All the following are characteristic of Turner Syndrome EXCEPT-",
+        "opa": "Webbing of Neck",
+        "opb": "Cubitus valgus",
+        "opc": "Umbilical Hernia",
+        "opd": "Coarctation of Aoa",
+        "cop": 2,
+        "rare disease": [
+            "Turner Syndrome"
+        ],
+        "input": "Question: All the following are characteristic of Turner Syndrome EXCEPT-\nChoices:\nA. Webbing of Neck\nB. Cubitus valgus\nC. Umbilical Hernia\nD. Coarctation of Aoa\nAnswer:"
+    },
+    {
+        "question": "All the following are characteristic of Turner Syndrome EXCEPT",
+        "opa": "Webbing of Neck",
+        "opb": "Cubitus valgus",
+        "opc": "Umbilical Hernia",
+        "opd": "Coarctation of Aoa",
+        "cop": 2,
+        "rare disease": [
+            "Turner Syndrome"
+        ],
+        "input": "Question: All the following are characteristic of Turner Syndrome EXCEPT\nChoices:\nA. Webbing of Neck\nB. Cubitus valgus\nC. Umbilical Hernia\nD. Coarctation of Aoa\nAnswer:"
+    },
+    {
+        "question": "In Werner Syndrome, most common site of Gastrinoma is?",
+        "opa": "Pancreas",
+        "opb": "Stomach",
+        "opc": "Colon",
+        "opd": "Small Intestione",
+        "cop": 3,
+        "rare disease": [
+            "Werner Syndrome"
+        ],
+        "input": "Question: In Werner Syndrome, most common site of Gastrinoma is?\nChoices:\nA. Pancreas\nB. Stomach\nC. Colon\nD. Small Intestione\nAnswer:"
+    },
+    {
+        "question": "In Werner Syndrome, the most common site of Gastrinoma is?",
+        "opa": "Pancreas",
+        "opb": "Stomach",
+        "opc": "Small Intestine",
+        "opd": "Colon",
+        "cop": 2,
+        "rare disease": [
+            "Werner Syndrome"
+        ],
+        "input": "Question: In Werner Syndrome, the most common site of Gastrinoma is?\nChoices:\nA. Pancreas\nB. Stomach\nC. Small Intestine\nD. Colon\nAnswer:"
+    },
+    {
+        "question": "A 67-year-old man is hospitalized after several days of fever and increasing shortness of breath. Respiratory viral panel returns positive for influenza A and the patient is started on a standard five day course of oseltamivir. Despite therapy, his shortness of breath continues to worsen and his oxygen saturation decreases to the point where ICU transfer and intubation are required. Chest radiograph shows bilateral infiltrates. Clinical criteria are consistent with development of Acute Respiratory Distress Syndrome (ARDS). After several weeks of supportive therapy, the patient improves with lung function returning to near normal. Which of the following processes is involved in the regeneration of alveolar lining after damage to alveoli occurs?",
+        "opa": "Squamous cell proliferation.",
+        "opb": "Sweeping of debris out of the alveoli by ciliated cells.",
+        "opc": "Excess mucus production by goblet cells.",
+        "opd": "Proliferation of surfactant-secreting cells.",
+        "cop": 3,
+        "rare disease": [
+            "Acute Respiratory Distress Syndrome"
+        ],
+        "input": "Question: A 67-year-old man is hospitalized after several days of fever and increasing shortness of breath. Respiratory viral panel returns positive for influenza A and the patient is started on a standard five day course of oseltamivir. Despite therapy, his shortness of breath continues to worsen and his oxygen saturation decreases to the point where ICU transfer and intubation are required. Chest radiograph shows bilateral infiltrates. Clinical criteria are consistent with development of Acute Respiratory Distress Syndrome (ARDS). After several weeks of supportive therapy, the patient improves with lung function returning to near normal. Which of the following processes is involved in the regeneration of alveolar lining after damage to alveoli occurs?\nChoices:\nA. Squamous cell proliferation.\nB. Sweeping of debris out of the alveoli by ciliated cells.\nC. Excess mucus production by goblet cells.\nD. Proliferation of surfactant-secreting cells.\nAnswer:"
+    },
+    {
+        "question": "A newlywed couple comes to your office for genetic counseling. Both potential parents are known to be carriers of the same Cystic Fibrosis (CF) mutation. What is the probability that at least one of their next three children will have CF if they are all single births?",
+        "opa": "0.",
+        "opb": "1/64.",
+        "opc": "27/64.",
+        "opd": "37/64.",
+        "cop": 3,
+        "rare disease": [
+            "Cystic Fibrosis"
+        ],
+        "input": "Question: A newlywed couple comes to your office for genetic counseling. Both potential parents are known to be carriers of the same Cystic Fibrosis (CF) mutation. What is the probability that at least one of their next three children will have CF if they are all single births?\nChoices:\nA. 0.\nB. 1/64.\nC. 27/64.\nD. 37/64.\nAnswer:"
+    }
+]

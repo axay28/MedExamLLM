@@ -1,0 +1,322 @@
+[
+    {
+        "question": "A 26 year old man is critically ill, with multisystem organ failure, and he has not been able to give a clear history of respiratory distress. You suspect Acute Respiratory Distress Syndrome (ARDS). 1. The lung injury may be direct, as occurs in sepsis, or indirect, as occurs in Toxic inhalation 2. The aerial (a) PO2 (in mmHg)/FIO2 (inspiratory O2 fraction) > 200 mmHg is characteristic of ARDS 3. Ventilator-induced injury will be more with low tidal volume ventilation in ARDS 4. Moality was significantly lower in the high tidal volume ventilation, compared to the conventional tidal volume ventilated patients 5. High-dose glucocoicoids are useful in the care of ARDS patients",
+        "choices": [
+            "1,2,5-True & 3,4-False",
+            "All True",
+            "All False",
+            "3,4-True & 1,2,5-False"
+        ],
+        "correct_option": "C",
+        "model_response": "A",
+        "context": "Lung Ultrasound Score, Severity of Acute Lung Disease and Prolonged Mechanical Ventilation in Children.\nsettings. Our findings also highlighted that even with limitations due to the study design, we could capture the attack\u2019s prevalence of more than 30 and 4% of life-threatening severe attack that included asphyxia and edema laryngeal in addition to surgeries and other invasive procedures performed due to attacks. The important number of attacks, hospitalizations, and general resource uses highlights the necessity to increase awareness of new strategies and accurate approaches to treat HAE patients.\nsigns of respiratory distress, such as increased work of breathing, changes in oxygen saturation, and difficulty speaking or maintaining alertness. In the case of cardiac emergencies, caregivers need to be aware of symptoms indicative of heart problems, such as chest pain, palpitations, or sudden changes in breathing patterns. Familiarity with emergency protocols, including the use of automated external defibrillators (AEDs) and administering cardiopulmonary resuscitation (CPR), is essential. Regular",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "expanded_disease_list_with_references.csv",
+                "Publication Date": "",
+                "Title": "Lung Ultrasound Score, Severity of Acute Lung Disease and Prolonged Mechanical Ventilation in Children."
+            },
+            {
+                "Authors": "",
+                "Disease": "Hereditary_Angioedema",
+                "Publication Date": "06 9 2024",
+                "Title": "A real-world study of hereditary angioedema patients due to C1 inhibitor deficiency treated with danazol in the Brazilian Public Health System"
+            },
+            {
+                "Authors": "",
+                "Disease": "Duchenne_Muscular_Dystrophy",
+                "Publication Date": "27 8 2024",
+                "Title": "A Voyage on the Role of Nuclear Factor Kappa B (NF-kB) Signaling Pathway in Duchenne Muscular Dystrophy: An Inherited Muscle Disorder"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following tests is abnormal in patients with ALS (Amyotrophic Lateral Sclerosis)?",
+        "choices": [
+            "V.E.P",
+            "MRI whole spine",
+            "CT whole Spine",
+            "Electromyography"
+        ],
+        "correct_option": "D",
+        "model_response": "A",
+        "context": "abnormalities, enhance disease monitoring, guide treatment selection, and improve patient stratification [<xref rid=\"B107-pharmaceuticals-17-01391\" ref-type=\"bibr\">107</xref>]. ALS remains a damaging neurodegenerative disorder with significant clinical and therapeutic challenges. This review has provided a comprehensive overview of ALS, highlighting its epidemiology, pathology, and clinical symptoms. The necessity of developing effective therapies is underscored by the progressive and fatal nature of the\nFuture studies should focus on translating these findings into clinical practice, optimizing existing therapies, and developing novel interventions that target the root causes of ALS.\neffect on the central nervous system, exerting simultaneously a neuroprotector as well as neurotoxic activity due to its non-selective inhibition of the TNF-\u03b1 receptors. As other authors concluded as well, the potential occurrence of ALS following a previous AS diagnosis should drive medical professionals to investigate the possibility of an ALS diagnosis in AS patients complaining of severe neurological symptoms. A second conclusion is a strong possibility for etanercept to cause demyelination events as a",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Amyotrophic_Lateral_Sclerosis",
+                "Publication Date": "18 10 2024",
+                "Title": "Amyotrophic Lateral Sclerosis: Insights and New Prospects in Disease Pathophysiology, Biomarkers and Therapies"
+            },
+            {
+                "Authors": "",
+                "Disease": "Amyotrophic_Lateral_Sclerosis",
+                "Publication Date": "18 10 2024",
+                "Title": "Amyotrophic Lateral Sclerosis: Insights and New Prospects in Disease Pathophysiology, Biomarkers and Therapies"
+            },
+            {
+                "Authors": "",
+                "Disease": "Amyotrophic_Lateral_Sclerosis",
+                "Publication Date": "17 10 2024",
+                "Title": "An Uncommon Overlap Syndrome Between Ankylosing Spondylitis and Amyotrophic Lateral Sclerosis\u2014Case Report"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is seen in Angelman Syndrome",
+        "choices": [
+            "Uniparental disomy of maternal Chromosome",
+            "Obesity",
+            "Defective genomic imprinting of maternal chromosome",
+            "All of the above"
+        ],
+        "correct_option": "D",
+        "model_response": "A",
+        "context": "families. MFS is an example of a syndrome where an early personalized approach to address a dynamic, genetically determined condition can make a difference in outcome [<xref ref-type=\"bibr\" rid=\"CR41\">41</xref>]. In light of this, a careful evaluation of all clinical signs by neonatologists is mandatory: in particular, the Steinberg sign (also known as the thumb sign) presence should be considered a potential handle sign for diagnostic suspicion, and every neonatologist should rule out Marfan syndrome in\nsymptoms, which may be isolated, associated, or follow one another [<xref rid=\"REF2\" ref-type=\"bibr\">2</xref>]. In children, the first symptoms are usually hepatic, whereas in adults, the symptoms are mainly neuropsychiatric. The disease may also manifest itself through renal, hematological, endocrine, or cardiovascular manifestations [<xref rid=\"REF6\" ref-type=\"bibr\">6</xref>]. Some authors report that forms with a hepatic presentation have a risk of death five times higher than forms with a neurological\nand without treatment, the classic neurological picture of the disease develops a dystonic syndrome characterized by dystonic postures and choreoathetotic movements, an ataxic syndrome with postural and intention tremor and limb ataxia, and an extrapyramidal syndrome with hypokinesia, mainly axial hypertonia and rest tremor [<xref rid=\"REF2\" ref-type=\"bibr\">2</xref>,<xref rid=\"REF6\" ref-type=\"bibr\">6</xref>,<xref rid=\"REF9\" ref-type=\"bibr\">9</xref>]. The facial expression of the \"Wilsonian\" patient is",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Marfan_Syndrome",
+                "Publication Date": "18 9 2024",
+                "Title": "Neonatal Marfan syndrome: a case report of a novel fibrillin 1 mutation, with genotype-phenotype correlation and brief review of the literature"
+            },
+            {
+                "Authors": "",
+                "Disease": "Wilson_Disease",
+                "Publication Date": "10 5 2024",
+                "Title": "Wilson Disease in Children in the Eastern Region of Morocco: Analysis of 24 Cases"
+            },
+            {
+                "Authors": "",
+                "Disease": "Wilson_Disease",
+                "Publication Date": "10 5 2024",
+                "Title": "Wilson Disease in Children in the Eastern Region of Morocco: Analysis of 24 Cases"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome?",
+        "choices": [
+            "Beta 2 microglobulin antibody",
+            "Anti-nuclear antibody",
+            "Anti-centromere antibody",
+            "Anti- beta 2 glycoprotein antibody"
+        ],
+        "correct_option": "D",
+        "model_response": "A",
+        "context": "proteinuria levels, as well as deposition in the left ventricle. Additionally, PEGylation appears to mask some epitopes from the immune system, reducing immunogenicity. Studies have even shown that pegunigalsidase can reverse anti-drug antibodies and induce immune tolerance [<xref ref-type=\"bibr\" rid=\"CR65\">65</xref>\u2013<xref ref-type=\"bibr\" rid=\"CR67\">67</xref>], and it has been proven to be non-inferior to the two previously approved ERTs [<xref ref-type=\"bibr\" rid=\"CR68\">68</xref>, <xref ref-type=\"bibr\"\n<xref rid=\"JR03076-50\" ref-type=\"bibr\">50</xref>\n<xref rid=\"JR03076-51\" ref-type=\"bibr\">51</xref>\nContrary to HAE, laboratory tests of about 75% of AAE-C1-INH patients show low levels of C1q and in part of the population C1-inhibitor autoantibodies can be identified.\n<xref rid=\"JR03076-52\" ref-type=\"bibr\">52</xref>\n<xref rid=\"JR03076-53\" ref-type=\"bibr\">53</xref>\ndyscrasias, lymphoproliferative disorders, and autoimmune diseases that cause a deficiency of C1-inhibitor either through neutralizing antibodies or through increased consumption by massive activation of the complement system.",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Fabry_Disease",
+                "Publication Date": "13 4 2024",
+                "Title": "Fabry disease: a rare disorder calling for personalized medicine"
+            },
+            {
+                "Authors": "",
+                "Disease": "Hereditary_Angioedema",
+                "Publication Date": "23 11 2022",
+                "Title": "Hereditary Angioedema: The Clinical Picture of Excessive Contact Activation"
+            },
+            {
+                "Authors": "",
+                "Disease": "Hereditary_Angioedema",
+                "Publication Date": "23 11 2022",
+                "Title": "Hereditary Angioedema: The Clinical Picture of Excessive Contact Activation"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome? -",
+        "choices": [
+            "Anti- beta 2 glycoprotein antibody",
+            "Beta 2 microglobulin antibody",
+            "Anti-nuclear antibody",
+            "Anti-centromere antibody"
+        ],
+        "correct_option": "A",
+        "model_response": "A",
+        "context": "the enzyme to antibodies targeting endogenous proteins (e.g., leptin, insulin, and transferrin) expressed in the lumen of brain capillary endothelial cells. Then, the enzyme-antibody-protein construct is taken into the endothelial cell via endocytosis. Finally, the enzyme-antibody-protein construct is exocytosed on the brain parenchyma side of the capillary. This process is known as transcytosis.<xref rid=\"bib140\" ref-type=\"bibr\"><sup>140</sup></xref><sup>,</sup><xref rid=\"bib141\"\nagalsidase alfa and beta [<xref ref-type=\"bibr\" rid=\"CR54\">54</xref>\u2013<xref ref-type=\"bibr\" rid=\"CR56\">56</xref>]. Inhibitory anti-drug antibodies are mainly IgG1 and IgG4 [<xref ref-type=\"bibr\" rid=\"CR57\">57</xref>]. They may affect ERT efficacy by binding to the enzyme, leading to macrophage activation, antibody-ERT complexes internalization, and enzyme inactivation [<xref ref-type=\"bibr\" rid=\"CR55\">55</xref>]. The reduced target cellular uptake of the enzyme reduces the effectiveness of ERT and is\nproteinuria levels, as well as deposition in the left ventricle. Additionally, PEGylation appears to mask some epitopes from the immune system, reducing immunogenicity. Studies have even shown that pegunigalsidase can reverse anti-drug antibodies and induce immune tolerance [<xref ref-type=\"bibr\" rid=\"CR65\">65</xref>\u2013<xref ref-type=\"bibr\" rid=\"CR67\">67</xref>], and it has been proven to be non-inferior to the two previously approved ERTs [<xref ref-type=\"bibr\" rid=\"CR68\">68</xref>, <xref ref-type=\"bibr\"",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Krabbe_Disease",
+                "Publication Date": "04 1 2023",
+                "Title": "Preclinical studies in Krabbe disease: A model for the investigation of novel combination therapies for lysosomal storage diseases"
+            },
+            {
+                "Authors": "",
+                "Disease": "Fabry_Disease",
+                "Publication Date": "13 4 2024",
+                "Title": "Fabry disease: a rare disorder calling for personalized medicine"
+            },
+            {
+                "Authors": "",
+                "Disease": "Fabry_Disease",
+                "Publication Date": "13 4 2024",
+                "Title": "Fabry disease: a rare disorder calling for personalized medicine"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome ? -",
+        "choices": [
+            "Beta 2 microglobulin antibody",
+            "Anti-nuclear antibody",
+            "Anti-centromere antibody",
+            "Anti- beta 2 glycoprotein antibody"
+        ],
+        "correct_option": "D",
+        "model_response": "A",
+        "context": "the enzyme to antibodies targeting endogenous proteins (e.g., leptin, insulin, and transferrin) expressed in the lumen of brain capillary endothelial cells. Then, the enzyme-antibody-protein construct is taken into the endothelial cell via endocytosis. Finally, the enzyme-antibody-protein construct is exocytosed on the brain parenchyma side of the capillary. This process is known as transcytosis.<xref rid=\"bib140\" ref-type=\"bibr\"><sup>140</sup></xref><sup>,</sup><xref rid=\"bib141\"\nagalsidase alfa and beta [<xref ref-type=\"bibr\" rid=\"CR54\">54</xref>\u2013<xref ref-type=\"bibr\" rid=\"CR56\">56</xref>]. Inhibitory anti-drug antibodies are mainly IgG1 and IgG4 [<xref ref-type=\"bibr\" rid=\"CR57\">57</xref>]. They may affect ERT efficacy by binding to the enzyme, leading to macrophage activation, antibody-ERT complexes internalization, and enzyme inactivation [<xref ref-type=\"bibr\" rid=\"CR55\">55</xref>]. The reduced target cellular uptake of the enzyme reduces the effectiveness of ERT and is\nproteinuria levels, as well as deposition in the left ventricle. Additionally, PEGylation appears to mask some epitopes from the immune system, reducing immunogenicity. Studies have even shown that pegunigalsidase can reverse anti-drug antibodies and induce immune tolerance [<xref ref-type=\"bibr\" rid=\"CR65\">65</xref>\u2013<xref ref-type=\"bibr\" rid=\"CR67\">67</xref>], and it has been proven to be non-inferior to the two previously approved ERTs [<xref ref-type=\"bibr\" rid=\"CR68\">68</xref>, <xref ref-type=\"bibr\"",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Krabbe_Disease",
+                "Publication Date": "04 1 2023",
+                "Title": "Preclinical studies in Krabbe disease: A model for the investigation of novel combination therapies for lysosomal storage diseases"
+            },
+            {
+                "Authors": "",
+                "Disease": "Fabry_Disease",
+                "Publication Date": "13 4 2024",
+                "Title": "Fabry disease: a rare disorder calling for personalized medicine"
+            },
+            {
+                "Authors": "",
+                "Disease": "Fabry_Disease",
+                "Publication Date": "13 4 2024",
+                "Title": "Fabry disease: a rare disorder calling for personalized medicine"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following antibodies is most frequently seen in Antiphospholipid Syndrome ?",
+        "choices": [
+            "Beta 2 microglobulin antibody",
+            "Anti-nuclear antibody",
+            "Anti-centromere antibody",
+            "Anti- beta 2 glycoprotein antibody"
+        ],
+        "correct_option": "D",
+        "model_response": "A",
+        "context": "proteinuria levels, as well as deposition in the left ventricle. Additionally, PEGylation appears to mask some epitopes from the immune system, reducing immunogenicity. Studies have even shown that pegunigalsidase can reverse anti-drug antibodies and induce immune tolerance [<xref ref-type=\"bibr\" rid=\"CR65\">65</xref>\u2013<xref ref-type=\"bibr\" rid=\"CR67\">67</xref>], and it has been proven to be non-inferior to the two previously approved ERTs [<xref ref-type=\"bibr\" rid=\"CR68\">68</xref>, <xref ref-type=\"bibr\"\n<xref rid=\"JR03076-50\" ref-type=\"bibr\">50</xref>\n<xref rid=\"JR03076-51\" ref-type=\"bibr\">51</xref>\nContrary to HAE, laboratory tests of about 75% of AAE-C1-INH patients show low levels of C1q and in part of the population C1-inhibitor autoantibodies can be identified.\n<xref rid=\"JR03076-52\" ref-type=\"bibr\">52</xref>\n<xref rid=\"JR03076-53\" ref-type=\"bibr\">53</xref>\ndyscrasias, lymphoproliferative disorders, and autoimmune diseases that cause a deficiency of C1-inhibitor either through neutralizing antibodies or through increased consumption by massive activation of the complement system.",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Fabry_Disease",
+                "Publication Date": "13 4 2024",
+                "Title": "Fabry disease: a rare disorder calling for personalized medicine"
+            },
+            {
+                "Authors": "",
+                "Disease": "Hereditary_Angioedema",
+                "Publication Date": "23 11 2022",
+                "Title": "Hereditary Angioedema: The Clinical Picture of Excessive Contact Activation"
+            },
+            {
+                "Authors": "",
+                "Disease": "Hereditary_Angioedema",
+                "Publication Date": "23 11 2022",
+                "Title": "Hereditary Angioedema: The Clinical Picture of Excessive Contact Activation"
+            }
+        ]
+    },
+    {
+        "question": "The gene responsible for Ataxia Telangiectasia is located on:",
+        "choices": [
+            "Chromosome 1",
+            "Chromosome 5",
+            "Chromosome 11",
+            "Chromosome 12"
+        ],
+        "correct_option": "C",
+        "model_response": "A",
+        "context": "ref-type=\"bibr\">85</xref>]. P37 and P38 investigated in our cohort had mutations in <italic toggle=\"yes\">SLC19A3</italic>. P37 developed neonatal epileptic encephalopathy with homozygous c.980-14A>G in <italic toggle=\"yes\">SLC19A3</italic> and P38 displayed episodic ataxia with homozygous c.74dupT (p.Ser26Leufs*19). Both patients are under treatment with biotin and thiamine and had important recovery of symptoms, which demonstrates the importance of recognizing the phenotype and starting effective\nexplore the involvement of other genetic factors such as the ones discussed in this review. These avenues of investigation not only promise to disentangle HD pathogenesis but also present opportunities for the development of disease progression biomarkers and innovative therapeutic targets. The multifaceted nature of HD genetics demands a comprehensive approach, and continued extensive research on genetic modifiers holds the key to unlocking new horizons in our quest to cure this devastating disorder.\nMethylation is the most studied epigenetic alteration and consists of the binding of a methyl group to CpG dinucleotide in the promoter region of a gene, thus reducing its transcription. Various DNA methylation alterations in neurological diseases are associated with disease activity, disease progression, and clinical outcomes, and may have a prognostic or diagnostic value [<xref rid=\"B131-genes-15-00807\" ref-type=\"bibr\">131</xref>]. Different works underlined the potential role of methylation in HD, both",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Leigh_Syndrome",
+                "Publication Date": "27 7 2023",
+                "Title": "Leigh Syndrome Spectrum: A Portuguese Population Cohort in an Evolutionary Genetic Era"
+            },
+            {
+                "Authors": "",
+                "Disease": "Huntington_Disease",
+                "Publication Date": "19 6 2024",
+                "Title": "Beyond CAG Repeats: The Multifaceted Role of Genetics in Huntington Disease"
+            },
+            {
+                "Authors": "",
+                "Disease": "Huntington_Disease",
+                "Publication Date": "19 6 2024",
+                "Title": "Beyond CAG Repeats: The Multifaceted Role of Genetics in Huntington Disease"
+            }
+        ]
+    },
+    {
+        "question": "All are false regarding Ataxia Telangiectasia EXCEPT:",
+        "choices": [
+            "Autosomal dominant",
+            "Prone for Development of Squamous Cell Carcinoma of Skin",
+            "Gene repair defect",
+            "Most common seen in adults"
+        ],
+        "correct_option": "C",
+        "model_response": "A",
+        "context": "in the distribution of the risk allele of <italic toggle=\"yes\">HMOX2</italic> rs2270363 in both the European and Chinese populations (Wang et al. <xref ref-type=\"bibr\" rid=\"CR103\">2022</xref>). Our findings revealed that the <italic toggle=\"yes\">HMOX1</italic> rs2071747 C allele was associated with lower RHS and VC (%) values. This polymorphism has not been described in SMA patients; however, there are a few reports of <italic toggle=\"yes\">HMOX1</italic> rs2071747 in studies of other neurological\nalign=\"left\">Retrospective cohort study</td><td align=\"left\">The Neuromuscular Disorders Department of the Third Hospital of Hebei Medical University (Hebei, CN) 2008\u20132012</td><td align=\"left\"><p><italic toggle=\"yes\">Inclusion criterion:</italic></p><p>Diagnosis of DMD</p><p><italic toggle=\"yes\">Exclusion criteria:</italic></p><p>Valvular heart disease</p><p>LV hypertrophy</p><p>Other systemic diseases</p></td><td align=\"left\">Clinical presentation, creatine kinase levels, and muscle biopsy</td><td\npatient's hepatic injury. Abdominal CT revealed that this patient continuously achieved a PR (Figure\u00a0<xref rid=\"cai294-fig-0002\" ref-type=\"fig\">2d</xref>). The size of T12 thoracic spinal HB was decreased while the size of T4\u20105 thoracic spinal HB remained unchanged (Figure\u00a0<xref rid=\"cai294-fig-0003\" ref-type=\"fig\">3c,g</xref>). On March 21, 2023, she presented to our clinic with complaints of weakness, aversion to coldness, and numbness in the lower legs. Diagnosis of hypothyroidism was confirmed with",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Spinal_Muscular_Atrophy",
+                "Publication Date": "27 10 2024",
+                "Title": "Genetic Variability in Oxidative Stress, Inflammatory, and Neurodevelopmental Pathways: Impact on the Susceptibility and Course of Spinal Muscular Atrophy"
+            },
+            {
+                "Authors": "",
+                "Disease": "Duchenne_Muscular_Dystrophy",
+                "Publication Date": "28 9 2024",
+                "Title": "Predictors of cardiac disease in duchenne muscular dystrophy: a systematic review and evidence grading"
+            },
+            {
+                "Authors": "",
+                "Disease": "Von_Hippel-Lindau_Disease",
+                "Publication Date": "20 9 2023",
+                "Title": "Comprehensive treatment of von Hippel\u2010Lindau disease: A case report"
+            }
+        ]
+    },
+    {
+        "question": "True about Bloom Syndrome -",
+        "choices": [
+            "Decreased IgG",
+            "Decreased IgM",
+            "IgA absent",
+            "Increased IgE"
+        ],
+        "correct_option": "B",
+        "model_response": "A",
+        "context": "the LSS scenery of mutations, since rare and nondescribed variants were pivotal for our cases; albeit this is only the beginning.\nin these individuals, with no consensus reached yet. Growth mechanisms are considered as one of the most important research fields in PWS, both because of short stature and the availability of a treatment for over 20 years now (<xref rid=\"B100\" ref-type=\"bibr\">100</xref>, <xref rid=\"B107\" ref-type=\"bibr\">107</xref>\u2013<xref rid=\"B109\" ref-type=\"bibr\">109</xref>). GHD has a 3 times higher incidence in patients with mUPD than in those with del15q. These latter patients also show a correlation between GH\ndistinctive feature. Interestingly, children with del15q11-q13 are longer at birth than those with mUPD, and the latter are shorter than PWS patients without deletions (<xref rid=\"B105\" ref-type=\"bibr\">105</xref>). Deletions in PWS, particularly those affecting genes involved in neural development, brain function, infertility, and circadian rhythm, such as SNORD116, can result in proconvertase 1 deficiency leading to GHD, short stature, hypogonadism, hyperghrelinemia, relative hypoinsulinemia, and T2DM.",
+        "metadata": [
+            {
+                "Authors": "",
+                "Disease": "Leigh_Syndrome",
+                "Publication Date": "27 7 2023",
+                "Title": "Leigh Syndrome Spectrum: A Portuguese Population Cohort in an Evolutionary Genetic Era"
+            },
+            {
+                "Authors": "",
+                "Disease": "Prader-Willi_Syndrome",
+                "Publication Date": "26 4 2024",
+                "Title": "Endocrine features of Prader-Willi syndrome: a narrative review focusing on genotype-phenotype correlation"
+            },
+            {
+                "Authors": "",
+                "Disease": "Prader-Willi_Syndrome",
+                "Publication Date": "26 4 2024",
+                "Title": "Endocrine features of Prader-Willi syndrome: a narrative review focusing on genotype-phenotype correlation"
+            }
+        ]
+    }
+]
