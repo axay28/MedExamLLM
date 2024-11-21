@@ -1,7 +1,7 @@
-
 # MedExamLLM
 
-**MedExamLLM** is a project that leverages Large Language Models (LLMs) and **ChromaDB embeddings** to create a system for generating medical exam questions related to rare diseases. The project aims to assist medical professionals and geneticists by providing relevant, high-quality questions based on the latest research on rare diseases.
+**MedExamLLM** is a project that leverages Retrieval-Augmented Generation (RAG) using Large Language Models (LLMs) and ChromaDB embeddings to generate high-quality, contextually accurate medical exam questions focused on rare diseases. By combining the power of LLMs with the retrieval of relevant medical literature, the system dynamically generates questions and answers based on the most up-to-date information. This approach allows medical professionals, educators, and researchers to access relevant content for training, assessments, and clinical decision-making in rare disease contexts.
+
 
 ---
 
@@ -18,6 +18,7 @@ MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, s
 ### Folder Structure
 
 - **data/**: Contains CSV files with extracted articles on various rare diseases.
+- **articles/**: Folder where the articles scraped from PubMed are stored.
 - **chunks/**: Processed text chunks from literature to prepare for embedding.
 - **scripts/**: Contains Python scripts for different stages of the pipeline:
   - `pubmed_scraper.py`: Scrapes literature on rare diseases from PubMed.
@@ -25,6 +26,11 @@ MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, s
   - `embed_and_store.py`: Generates embeddings and stores them in ChromaDB.
   - `generate_answers.py`: Retrieves context from ChromaDB and generates answers using LLMs.
   - `view_chroma.py`: Utility for viewing stored collections and embeddings in ChromaDB.
+  - `benchmarkclaude.py`: Benchmarks and evaluates the performance of Claude.
+  - `benchmarkllama.py`: Benchmarks and evaluates the performance of Llama.
+  - `evaluate_llama.py`: Evaluates the results from the Llama benchmark.
+  - `filter.py`: Filters the dataset for relevant rare diseases.
+  - `evaluate_accuracy.py`: Evaluates the accuracy of model predictions.
 - **chromadb/**: Dockerized ChromaDB instance with persistent storage.
 - **start_chromadb.sh**: Shell script to start ChromaDB server in Docker.
 
@@ -32,8 +38,9 @@ MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, s
 
 ## Key Features
 
-- **LLM-Based Insights**: Utilizes models like GPT-4 for extracting key insights from medical literature related to rare diseases.
+- **LLM-Based Insights**: Utilizes models like Claude and Llama for extracting key insights from medical literature related to rare diseases.
 - **ChromaDB Integration**: Stores and retrieves embeddings, enhancing semantic search and relevance.
+- **Benchmarking**: Evaluate model performance using scripts like `benchmarkclaude.py` and `benchmarkllama.py`.
 - **Exam Question Generation**: Generates exam questions on rare diseases to aid in training medical professionals.
 
 ---
@@ -42,10 +49,14 @@ MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, s
 
 ### Prerequisites
 
-- **Python 3.x**
-- **Docker** (for running ChromaDB in a container)
+- **Python 3.x**: Ensure Python 3 is installed on your machine. You can verify by running `python3 --version`.
+- **Docker**: Docker is required to run ChromaDB. You can verify if Docker is installed by running `docker --version`.
 
-### Installation
+Here's the converted GitHub README:
+
+# MedExamLLM
+
+## Installation
 
 1. **Clone the repository**:
 
@@ -60,99 +71,87 @@ MedExamLLM uses LLMs and ChromaDB to extract insights from medical literature, s
    pip install -r requirements.txt
    ```
 
-3. **Set up environment variables** for OpenAI API key:
+3. **Set up environment variables**:
+
+   For OpenAI API:
 
    ```bash
    export OPENAI_API_KEY="your_openai_api_key"
    ```
 
-4. **Start ChromaDB with Docker**:
+   Alternatively, create a `.env` file in the root directory.
 
-   Ensure Docker is running, then execute:
+4. **Start ChromaDB with Docker**:
 
    ```bash
    ./start_chromadb.sh
    ```
 
-   This will launch a ChromaDB instance on `localhost:8000`.
+## Running the Pipeline
 
-### Running the Pipeline
+### Scrape Articles from PubMed
 
-1. **Scrape Articles from PubMed**:
+```bash
+python scripts/pubmed_scraper.py
+```
 
-   Run `pubmed_scraper.py` to fetch rare disease literature from PubMed and save it to CSVs in the `data/` folder.
+### Clean and Chunk Data
 
-   ```bash
-   python scripts/pubmed_scraper.py
-   ```
+```bash
+python scripts/clean_and_chunk.py
+```
 
-2. **Clean and Chunk Data**:
+### Generate Embeddings and Store in ChromaDB
 
-   Prepare text data by cleaning and chunking it for embedding.
+```bash
+python scripts/embed_and_store.py
+```
 
-   ```bash
-   python scripts/clean_and_chunk.py
-   ```
+### Generate Answers Using LLM and ChromaDB Context
 
-3. **Embed and Store in ChromaDB**:
+```bash
+python scripts/generate_answers.py
+```
 
-   Generate embeddings for each chunk and store them in ChromaDB for efficient retrieval.
+### Benchmark and Evaluate Model Performance
 
-   ```bash
-   python scripts/embed_and_store.py
-   ```
+**Benchmark Claude**:
 
-4. **Generate Answers Using LLM and ChromaDB Context**:
+```bash
+python scripts/benchmarkclaude.py
+```
 
-   Retrieve relevant chunks from ChromaDB based on queries, and use an LLM to generate answers.
+**Benchmark Llama**:
 
-   ```bash
-   python scripts/generate_answers.py
-   ```
+```bash
+python scripts/benchmarkllama.py
+```
 
-5. **Inspect ChromaDB** (Optional):
+**Evaluate Results**:
 
-   Use `view_chroma.py` to list collections and verify stored embeddings in ChromaDB.
+```bash
+python scripts/evaluate_accuracy.py
+```
 
-   ```bash
-   python scripts/view_chroma.py
-   ```
+### Inspect ChromaDB (Optional)
 
----
+```bash
+python scripts/view_chroma.py
+```
 
 ## Usage Examples
 
-To ask a question and receive an answer based on rare disease literature:
-
-1. **Start ChromaDB** (if not already running):
+1. Start ChromaDB:
 
    ```bash
    ./start_chromadb.sh
    ```
 
-2. **Run `generate_answers.py` with a query**:
+2. Generate answers:
 
    ```bash
    python scripts/generate_answers.py
    ```
 
-This will retrieve context from ChromaDB and generate an answer using the LLM based on stored embeddings.
-
----
-
-## Additional Notes
-
-- **Data Storage**: Literature and processed data are stored in the `data/` and `chunks/` folders.
-- **Embedding Storage**: ChromaDB is configured to store embeddings persistently in a Docker volume to ensure data remains across sessions.
-- **Customizability**: You can modify scripts or the ChromaDB configuration to adapt to other data sources or embedding methods.
-
----
-
-## Troubleshooting
-
-- If ChromaDB is not responding, ensure Docker is running and restart it with start_chromadb.sh.
-- For issues with the Hugging Face model, ensure that the model is available locally or configured properly in your environment.
-- Use view_chroma.py to inspect collections and verify that embeddings are stored correctly in ChromaDB.
-
-
-
+Citations:
+[1] https://github.com/your-username/MedExamLLM.git
