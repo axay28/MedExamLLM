@@ -1,0 +1,180 @@
+Title: Sample Article 1 on Cystic Fibrosis
+DOI: 10.1234/sample1
+
+Title: Sample Article 2 on Cystic Fibrosis
+DOI: 10.1234/sample2
+
+Title: Sample Article 3 on Cystic Fibrosis
+DOI: 10.1234/sample3
+
+Title: Sample Article 4 on Cystic Fibrosis
+DOI: 10.1234/sample4
+
+Title: Sample Article 5 on Cystic Fibrosis
+DOI: 10.1234/sample5
+
+Title: Sample Article 6 on Cystic Fibrosis
+DOI: 10.1234/sample6
+
+Title: Sample Article 7 on Cystic Fibrosis
+DOI: 10.1234/sample7
+
+Title: Sample Article 8 on Cystic Fibrosis
+DOI: 10.1234/sample8
+
+Title: Sample Article 9 on Cystic Fibrosis
+DOI: 10.1234/sample9
+
+Title: Sample Article 10 on Cystic Fibrosis
+DOI: 10.1234/sample10
+
+Title: Sample Article 11 on Cystic Fibrosis
+DOI: 10.1234/sample11
+
+Title: Sample Article 12 on Cystic Fibrosis
+DOI: 10.1234/sample12
+
+Title: Sample Article 13 on Cystic Fibrosis
+DOI: 10.1234/sample13
+
+Title: Sample Article 14 on Cystic Fibrosis
+DOI: 10.1234/sample14
+
+Title: Sample Article 15 on Cystic Fibrosis
+DOI: 10.1234/sample15
+
+Title: Sample Article 16 on Cystic Fibrosis
+DOI: 10.1234/sample16
+
+Title: Sample Article 17 on Cystic Fibrosis
+DOI: 10.1234/sample17
+
+Title: Sample Article 18 on Cystic Fibrosis
+DOI: 10.1234/sample18
+
+Title: Sample Article 19 on Cystic Fibrosis
+DOI: 10.1234/sample19
+
+Title: Sample Article 20 on Cystic Fibrosis
+DOI: 10.1234/sample20
+
+Title: Sample Article 21 on Cystic Fibrosis
+DOI: 10.1234/sample21
+
+Title: Sample Article 22 on Cystic Fibrosis
+DOI: 10.1234/sample22
+
+Title: Sample Article 23 on Cystic Fibrosis
+DOI: 10.1234/sample23
+
+Title: Sample Article 24 on Cystic Fibrosis
+DOI: 10.1234/sample24
+
+Title: Sample Article 25 on Cystic Fibrosis
+DOI: 10.1234/sample25
+
+Title: Sample Article 26 on Cystic Fibrosis
+DOI: 10.1234/sample26
+
+Title: Sample Article 27 on Cystic Fibrosis
+DOI: 10.1234/sample27
+
+Title: Sample Article 28 on Cystic Fibrosis
+DOI: 10.1234/sample28
+
+Title: Sample Article 29 on Cystic Fibrosis
+DOI: 10.1234/sample29
+
+Title: Sample Article 30 on Cystic Fibrosis
+DOI: 10.1234/sample30
+
+Title: Non-local impact of distal airway constrictions on patterns of inhaled particle deposition.
+DOI: 10.1098/rsos.241108
+
+Title: New insights on portal hypertension's screening in people with cystic fibrosis.
+DOI: 10.21037/hbsn-24-467
+
+Title: New guidelines for screening, evaluation and management of hepatobiliary disease in cystic fibrosis.
+DOI: 10.21037/hbsn-24-442
+
+Title: Case Report: A delicate equilibrium of exocrine pancreatic recovery and hepatotoxicity with elexacaftor/tezacaftor/ivacaftor therapy in a pediatric patient with cystic fibrosis.
+DOI: 10.3389/fped.2024.1457517
+
+Title: Have CFTR modulators changed the need for liver and lung transplantation among patients with cystic fibrosis? An analysis of the UNOS database.
+DOI: 10.1097/LVT.0000000000000529
+
+Title: Heterogeneity in Reported Side Effects Following Initiation of Elexacaftor-Tezacaftor-Ivacaftor: Experiences at a Quaternary CF Care Center.
+DOI: 10.1002/ppul.27382
+
+Title: Plasma Microbial Cell-Free DNA Metagenomic Next-Generation Sequencing in People With Cystic Fibrosis.
+DOI: 10.1002/ppul.27380
+
+Title: Genetic and clinical factors influencing CF-associated liver disease: the impact of SERPINA1 variants and CFTR genotypes in Romanian pediatric cystic fibrosis patients.
+DOI: 10.15386/mpr-2801
+
+Title: Complicated meconium ileus in a male neonate with cystic fibrosis: Case report.
+DOI: 10.1016/j.radcr.2024.09.098
+
+Title: Life-long functional regeneration of in vivo airway epithelium by the engraftment of airway basal stem cells.
+DOI: 10.1038/s41596-024-01067-y
+
+Title: Aging with CF: Characteristics of people with CF aged 40 and older in the United States.
+DOI: pii: S1569-1993(24)01802-2.  10.1016/j.jcf.2024.10.009
+
+Title: A phase I study assessing the safety and tolerability of SPL84, an inhaled antisense oligonucleotide for treatment of cystic fibrosis patients with the 3849 +10kb C->T.
+DOI: pii: S1569-1993(24)01798-3.  10.1016/j.jcf.2024.10.004
+
+Title: A comparative study and trace- level detection of volatile organic biomarkers using UV-IR-THz sources based high -Q helmholtz photoacoustic sensor.
+DOI: 10.1016/j.saa.2024.125332
+
+Title: Asthma and COVID-19: Unveiling Outcome Disparities and Treatment Impact Based on Distinct Endotypes.
+DOI: 10.1513/AnnalsATS.202405-507OC
+
+Title: Pulmonary-delivered Anticalin Jagged-1 antagonists reduce experimental airway mucus hyperproduction and obstruction.
+DOI: 10.1152/ajplung.00059.2024
+
+Title: Neutrophil Elastase Activates Macrophage Calpain as a Mechanism for Phagocytic Failure.
+DOI: 10.1152/ajplung.00132.2024
+
+Title: Heightened mitochondrial respiration in CF cells is normalised by triple CFTR modulator therapy through mechanisms involving calcium.
+DOI: 10.1016/j.heliyon.2024.e39244
+
+Title: Ivacaftor ameliorates mucus burden, bacterial load, and inflammation in acute but not chronic P. aeruginosa infection in hG551D rats.
+DOI: 10.1186/s12931-024-03029-0
+
+Title: The structures of protein kinase A in complex with CFTR: Mechanisms of phosphorylation and noncatalytic activation.
+DOI: 10.1073/pnas.2409049121
+
+Title: Structural determinants of protein kinase A essential for CFTR channel activation.
+DOI: 10.1073/pnas.2407728121
+
+Title: Interspecies interactions alter the antibiotic sensitivity of Pseudomonas aeruginosa.
+DOI: 10.1128/spectrum.02012-24
+
+Title: Phage therapy to treat cystic fibrosis Burkholderia cepacia complex lung infections: perspectives and challenges.
+DOI: 10.3389/fmicb.2024.1476041
+
+Title: Cystic fibrosis or asthma? Discerning dyspnea with hyperpolarizaed xenon gas magnetic resonance imaging.
+DOI: 10.1016/j.mri.2024.110271
+
+Title: Medication use in people with cystic fibrosis before and after modulator therapy.
+DOI: 10.1016/j.pupt.2023.102264
+
+Title: Clinical Efficacy of Serum Anti-glycopeptidolipid-core IgA Antibody Test for Screening Nontuberculous Mycobacterial Pulmonary Disease in Bronchiectasis: A European Multicenter Cohort Study.
+DOI: pii: S0012-3692(24)05418-7.  10.1016/j.chest.2024.10.029
+
+Title: Understanding the acceptability of the changing model of care in cystic fibrosis.
+DOI: 10.1016/j.rmed.2024.107847
+
+Title: The activity of a Ga(III) catecholate complex against Aspergillus fumigatus in conditions mimicking cystic fibrosis lung and inhaled formulations for its pulmonary administration.
+DOI: 10.1016/j.ijpharm.2024.124871
+
+Title: Prevalence and predictors of substance use in adults with cystic fibrosis: A single-center retrospective review.
+DOI: pii: S0163-8343(24)00214-7.  10.1016/j.genhosppsych.2024.10.009
+
+Title: Pf bacteriophage is associated with decline in lung function in a longitudinal cohort of patients with cystic fibrosis and Pseudomonas airway infection.
+DOI: pii: S1569-1993(24)01786-7.  10.1016/j.jcf.2024.09.018
+
+Title: Mental health, behaviour and sleep quality in children 6-11 years before and after elexacaftor/tezacaftor/ivacaftor initiation.
+DOI: pii: S1569-1993(24)01795-8.  10.1016/j.jcf.2024.10.002
+

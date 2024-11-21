@@ -1,0 +1,90 @@
+Title: Sample Article 1 on Huntington Disease
+DOI: 10.1234/sample1
+
+Title: Sample Article 2 on Huntington Disease
+DOI: 10.1234/sample2
+
+Title: Sample Article 3 on Huntington Disease
+DOI: 10.1234/sample3
+
+Title: Sample Article 4 on Huntington Disease
+DOI: 10.1234/sample4
+
+Title: Sample Article 5 on Huntington Disease
+DOI: 10.1234/sample5
+
+Title: Sample Article 6 on Huntington Disease
+DOI: 10.1234/sample6
+
+Title: Sample Article 7 on Huntington Disease
+DOI: 10.1234/sample7
+
+Title: Sample Article 8 on Huntington Disease
+DOI: 10.1234/sample8
+
+Title: Sample Article 9 on Huntington Disease
+DOI: 10.1234/sample9
+
+Title: Sample Article 10 on Huntington Disease
+DOI: 10.1234/sample10
+
+Title: Sample Article 11 on Huntington Disease
+DOI: 10.1234/sample11
+
+Title: Sample Article 12 on Huntington Disease
+DOI: 10.1234/sample12
+
+Title: Sample Article 13 on Huntington Disease
+DOI: 10.1234/sample13
+
+Title: Sample Article 14 on Huntington Disease
+DOI: 10.1234/sample14
+
+Title: Sample Article 15 on Huntington Disease
+DOI: 10.1234/sample15
+
+Title: Sample Article 16 on Huntington Disease
+DOI: 10.1234/sample16
+
+Title: Sample Article 17 on Huntington Disease
+DOI: 10.1234/sample17
+
+Title: Sample Article 18 on Huntington Disease
+DOI: 10.1234/sample18
+
+Title: Sample Article 19 on Huntington Disease
+DOI: 10.1234/sample19
+
+Title: Sample Article 20 on Huntington Disease
+DOI: 10.1234/sample20
+
+Title: Sample Article 21 on Huntington Disease
+DOI: 10.1234/sample21
+
+Title: Sample Article 22 on Huntington Disease
+DOI: 10.1234/sample22
+
+Title: Sample Article 23 on Huntington Disease
+DOI: 10.1234/sample23
+
+Title: Sample Article 24 on Huntington Disease
+DOI: 10.1234/sample24
+
+Title: Sample Article 25 on Huntington Disease
+DOI: 10.1234/sample25
+
+Title: Sample Article 26 on Huntington Disease
+DOI: 10.1234/sample26
+
+Title: Sample Article 27 on Huntington Disease
+DOI: 10.1234/sample27
+
+Title: Sample Article 28 on Huntington Disease
+DOI: 10.1234/sample28
+
+Title: Sample Article 29 on Huntington Disease
+DOI: 10.1234/sample29
+
+Title: Sample Article 30 on Huntington Disease
+DOI: 10.1234/sample30
+

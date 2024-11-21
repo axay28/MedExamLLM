@@ -1,0 +1,12 @@
+Title: Sample Article 1 on Marfan Syndrome
+DOI: 10.1234/sample1
+
+Title: Sample Article 2 on Marfan Syndrome
+DOI: 10.1234/sample2
+
+Title: Sample Article 3 on Marfan Syndrome
+DOI: 10.1234/sample3
+
+Title: Sample Article 4 on Marfan Syndrome
+DOI: 10.1234/sample4
+
