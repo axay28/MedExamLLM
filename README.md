@@ -1,6 +1,6 @@
 # MedExamLLM
 
-**MedExamLLM** is a project that leverages Retrieval-Augmented Generation (RAG) using Large Language Models (LLMs) and ChromaDB embeddings to generate high-quality, contextually accurate medical exam questions focused on rare diseases. By combining the power of LLMs with the retrieval of relevant medical literature, the system dynamically generates questions and answers based on the most up-to-date information. This approach allows medical professionals, educators, and researchers to access relevant content for training, assessments, and clinical decision-making in rare disease contexts.
+**MedExamLLM** is a project that leverages Retrieval-Augmented Generation (RAG) using Large Language Models (LLMs) and ChromaDB embeddings to generate high-quality, contextually accurate medical exam answes focused on rare diseases. By combining the power of LLMs with the retrieval of relevant medical literature, the system dynamically generates answers based on the most up-to-date information. This approach allows medical professionals, educators, and researchers to access relevant content for training, assessments, and clinical decision-making in rare disease contexts.
 
 
 ---
